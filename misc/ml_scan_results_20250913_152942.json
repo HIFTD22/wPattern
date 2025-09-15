@@ -1,0 +1,294 @@
+{
+  "scan_date": "2025-09-13T15:29:42.739887",
+  "total_candidates": 36,
+  "candidates": [
+    {
+      "symbol": "NFLX",
+      "ml_probability": 0.730449976646183,
+      "ml_confidence": 0.7466341923536326,
+      "current_price": 1188.43994140625,
+      "target_price": 1412.2995880196374,
+      "upside_potential": 18.836429070912928
+    },
+    {
+      "symbol": "MSFT",
+      "ml_probability": 0.7284875353316292,
+      "ml_confidence": 0.7472883273444694,
+      "current_price": 509.8999938964844,
+      "target_price": 606.6204777839499,
+      "upside_potential": 18.968520306964532
+    },
+    {
+      "symbol": "HD",
+      "ml_probability": 0.7204954781935878,
+      "ml_confidence": 0.747724537510165,
+      "current_price": 422.69000244140625,
+      "target_price": 503.4049226412115,
+      "upside_potential": 19.095535672385353
+    },
+    {
+      "symbol": "XOM",
+      "ml_probability": 0.7170989451491674,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 112.16000366210938,
+      "target_price": 132.91204191488467,
+      "upside_potential": 18.502173301716716
+    },
+    {
+      "symbol": "BAC",
+      "ml_probability": 0.7170989451491674,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 50.58000183105469,
+      "target_price": 59.73061317172955,
+      "upside_potential": 18.09136221710583
+    },
+    {
+      "symbol": "PFE",
+      "ml_probability": 0.7170989451491674,
+      "ml_confidence": 0.7474138952236803,
+      "current_price": 23.8700008392334,
+      "target_price": 28.21872772107722,
+      "upside_potential": 18.21837758252665
+    },
+    {
+      "symbol": "KO",
+      "ml_probability": 0.7170989451491674,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 67.01000213623047,
+      "target_price": 79.4083088609599,
+      "upside_potential": 18.50217330171672
+    },
+    {
+      "symbol": "MRK",
+      "ml_probability": 0.7170989451491674,
+      "ml_confidence": 0.7474138952236803,
+      "current_price": 82.80999755859375,
+      "target_price": 98.44172023759688,
+      "upside_potential": 18.87661289682157
+    },
+    {
+      "symbol": "WMT",
+      "ml_probability": 0.7170989451491674,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 103.48999786376953,
+      "target_price": 122.63789661846711,
+      "upside_potential": 18.50217330171673
+    },
+    {
+      "symbol": "VZ",
+      "ml_probability": 0.7170989451491674,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 43.970001220703125,
+      "target_price": 51.9806220661324,
+      "upside_potential": 18.218377582526653
+    },
+    {
+      "symbol": "DIS",
+      "ml_probability": 0.7170989451491674,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 115.95999908447266,
+      "target_price": 137.47357317988212,
+      "upside_potential": 18.552582153555907
+    },
+    {
+      "symbol": "GOOGL",
+      "ml_probability": 0.7097912528414752,
+      "ml_confidence": 0.738856229116631,
+      "current_price": 240.8000030517578,
+      "target_price": 285.3252161081345,
+      "upside_potential": 18.490536749206928
+    },
+    {
+      "symbol": "TSLA",
+      "ml_probability": 0.7097912528414752,
+      "ml_confidence": 0.747724537510165,
+      "current_price": 395.94000244140625,
+      "target_price": 471.5468668488484,
+      "upside_potential": 19.095535672385356
+    },
+    {
+      "symbol": "NVDA",
+      "ml_probability": 0.7097912528414752,
+      "ml_confidence": 0.738856229116631,
+      "current_price": 177.82000732421875,
+      "target_price": 210.69988112594586,
+      "upside_potential": 18.490536749206925
+    },
+    {
+      "symbol": "AVGO",
+      "ml_probability": 0.7084875353316292,
+      "ml_confidence": 0.7419330290295033,
+      "current_price": 359.8699951171875,
+      "target_price": 426.6238754451691,
+      "upside_potential": 18.549443197186804
+    },
+    {
+      "symbol": "DHR",
+      "ml_probability": 0.70780317050128,
+      "ml_confidence": 0.7469776850579847,
+      "current_price": 190.0500030517578,
+      "target_price": 225.42190356394835,
+      "upside_potential": 18.61189157811138
+    },
+    {
+      "symbol": "ABT",
+      "ml_probability": 0.70780317050128,
+      "ml_confidence": 0.7469776850579847,
+      "current_price": 133.72999572753906,
+      "target_price": 157.92357364752831,
+      "upside_potential": 18.091362217105836
+    },
+    {
+      "symbol": "AMZN",
+      "ml_probability": 0.7004954781935878,
+      "ml_confidence": 0.7474138952236803,
+      "current_price": 228.14999389648438,
+      "target_price": 270.5793971694216,
+      "upside_potential": 18.59715292922085
+    },
+    {
+      "symbol": "JPM",
+      "ml_probability": 0.7004954781935878,
+      "ml_confidence": 0.7476318200488214,
+      "current_price": 306.9100036621094,
+      "target_price": 363.9865263982292,
+      "upside_potential": 18.59715292922087
+    },
+    {
+      "symbol": "MA",
+      "ml_probability": 0.7004954781935878,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 580.4099731445312,
+      "target_price": 695.4537493828323,
+      "upside_potential": 19.821123268268394
+    },
+    {
+      "symbol": "TMO",
+      "ml_probability": 0.6957952276393214,
+      "ml_confidence": 0.7466341923536326,
+      "current_price": 479.4599914550781,
+      "target_price": 570.0799022882626,
+      "upside_potential": 18.9004113895236
+    },
+    {
+      "symbol": "AAPL",
+      "ml_probability": 0.6951108628089723,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 234.07000732421875,
+      "target_price": 279.5960523617126,
+      "upside_potential": 19.449755890524717
+    },
+    {
+      "symbol": "CVX",
+      "ml_probability": 0.6951108628089723,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 157.11000061035156,
+      "target_price": 186.12162195022205,
+      "upside_potential": 18.465801812210668
+    },
+    {
+      "symbol": "ABBV",
+      "ml_probability": 0.6951108628089723,
+      "ml_confidence": 0.7474138952236803,
+      "current_price": 218.33999633789062,
+      "target_price": 259.22234470671174,
+      "upside_potential": 18.72416829464168
+    },
+    {
+      "symbol": "PEP",
+      "ml_probability": 0.6951108628089723,
+      "ml_confidence": 0.7476318200488214,
+      "current_price": 143.52999877929688,
+      "target_price": 170.03396389495023,
+      "upside_potential": 18.46580181221067
+    },
+    {
+      "symbol": "META",
+      "ml_probability": 0.686540408326997,
+      "ml_confidence": 0.7466341923536326,
+      "current_price": 755.5900268554688,
+      "target_price": 897.916206330991,
+      "upside_potential": 18.836429070912924
+    },
+    {
+      "symbol": "TXN",
+      "ml_probability": 0.6770989451491674,
+      "ml_confidence": 0.7480680302145171,
+      "current_price": 182.60000610351562,
+      "target_price": 216.79033855236386,
+      "upside_potential": 18.72416829464168
+    },
+    {
+      "symbol": "JNJ",
+      "ml_probability": 0.671714329764552,
+      "ml_confidence": 0.7474138952236803,
+      "current_price": 178.05999755859375,
+      "target_price": 211.9318214554156,
+      "upside_potential": 19.02270266272228
+    },
+    {
+      "symbol": "COST",
+      "ml_probability": 0.6672734993395432,
+      "ml_confidence": 0.7583044141217117,
+      "current_price": 967.9000244140625,
+      "target_price": 1155.7371355880794,
+      "upside_potential": 19.406664576512206
+    },
+    {
+      "symbol": "ADBE",
+      "ml_probability": 0.6472734993395431,
+      "ml_confidence": 0.7587406242874073,
+      "current_price": 349.3599853515625,
+      "target_price": 418.70359829776305,
+      "upside_potential": 19.848756541599855
+    },
+    {
+      "symbol": "PG",
+      "ml_probability": 0.635894337966057,
+      "ml_confidence": 0.7476318200488214,
+      "current_price": 157.89999389648438,
+      "target_price": 186.696929464526,
+      "upside_potential": 18.237451983006554
+    },
+    {
+      "symbol": "LLY",
+      "ml_probability": 0.6190214267784835,
+      "ml_confidence": 0.7516478928053425,
+      "current_price": 755.3900146484375,
+      "target_price": 904.7391641684495,
+      "upside_potential": 19.771131021571673
+    },
+    {
+      "symbol": "CRM",
+      "ml_probability": 0.6176063152979484,
+      "ml_confidence": 0.7526455205005314,
+      "current_price": 242.75999450683594,
+      "target_price": 290.02020086717016,
+      "upside_potential": 19.46787256126891
+    },
+    {
+      "symbol": "UNH",
+      "ml_probability": 0.6146572168174149,
+      "ml_confidence": 0.7518658176304837,
+      "current_price": 352.510009765625,
+      "target_price": 419.7854828931026,
+      "upside_potential": 19.08469866492794
+    },
+    {
+      "symbol": "BRK-B",
+      "ml_probability": 0.6100616927237938,
+      "ml_confidence": 0.7526455205005314,
+      "current_price": 493.739990234375,
+      "target_price": 591.69425157183,
+      "upside_potential": 19.8392399390126
+    },
+    {
+      "symbol": "V",
+      "ml_probability": 0.6046770773391785,
+      "ml_confidence": 0.7526455205005314,
+      "current_price": 339.42999267578125,
+      "target_price": 406.7703233477024,
+      "upside_potential": 19.839239939012604
+    }
+  ]
+}

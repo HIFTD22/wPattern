@@ -1,0 +1,17 @@
+feature,importance
+px_vs_ma20_p2,0.32764405
+trough_sim,0.16882038
+px_vs_ma20_l2,0.106910326
+drop1_norm,0.07452305
+rsi_l2,0.0668416
+neckline_slope_per_day,0.06438805
+px_vs_ma50_l2,0.040911462
+spread_t,0.030675396
+drop2_norm,0.028759874
+l1_to_p2_t,0.026294712
+p1_to_l1_t,0.024129812
+p2_to_l2_t,0.015302678
+vol_ratio_p2,0.012985538
+vol_ratio_l2,0.010595724
+rsi_p2,0.0009716442
+rise1_norm,0.00024568982

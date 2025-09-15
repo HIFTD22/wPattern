@@ -1,0 +1,37 @@
+{
+  "features": [
+    "drop1_norm",
+    "drop2_norm",
+    "l1_to_p2_t",
+    "rsi_p2",
+    "rsi_l2",
+    "vol_ratio_l2",
+    "px_vs_ma20_l2",
+    "px_vs_ma50_l2",
+    "regime_volatility",
+    "volume_momentum",
+    "pattern_clarity",
+    "pattern_amplitude_balance"
+  ],
+  "target": "y_shape",
+  "n_samples": 53,
+  "class_distribution": {
+    "negative": 22,
+    "positive": 31
+  },
+  "cv_auc": 0.8660714285714286,
+  "feature_importance": {
+    "drop1_norm": 0.0,
+    "drop2_norm": 0.0,
+    "l1_to_p2_t": 0.0,
+    "rsi_p2": 0.0,
+    "rsi_l2": 0.0,
+    "vol_ratio_l2": 0.0,
+    "px_vs_ma20_l2": 0.0,
+    "px_vs_ma50_l2": 0.0,
+    "regime_volatility": 0.0,
+    "volume_momentum": 0.0,
+    "pattern_clarity": 0.0,
+    "pattern_amplitude_balance": 0.0
+  }
+}

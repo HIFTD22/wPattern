@@ -1,0 +1,104 @@
+[
+  {
+    "success": true,
+    "filename": "AMD_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "BRK.B_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "COF_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "CRWD_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "DUK_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "HOOD_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "JPM_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "MS_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "NFLX_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "ORCL_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "PLTR_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "RBLX_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "RDDT_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "SPOT_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "TSLA_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "XOM_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  },
+  {
+    "success": true,
+    "filename": "ZS_w_manual.png",
+    "manual_method": "user_drawn_lines",
+    "target_difference": "TBD"
+  }
+]

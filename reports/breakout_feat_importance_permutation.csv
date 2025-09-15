@@ -1,0 +1,17 @@
+feature,mean_importance,std_importance
+trough_sim,0.22916666666666666,0.06798494647968624
+drop1_norm,0.0,0.0
+rise1_norm,0.0,0.0
+drop2_norm,0.0,0.0
+neckline_slope_per_day,0.0,0.0
+spread_t,0.0,0.0
+p1_to_l1_t,0.0,0.0
+l1_to_p2_t,0.0,0.0
+p2_to_l2_t,0.0,0.0
+rsi_p2,0.0,0.0
+rsi_l2,0.0,0.0
+vol_ratio_p2,0.0,0.0
+vol_ratio_l2,0.0,0.0
+px_vs_ma20_p2,0.0,0.0
+px_vs_ma20_l2,0.0,0.0
+px_vs_ma50_l2,0.0,0.0

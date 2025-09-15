@@ -1,0 +1,17 @@
+feature,mean_importance,std_importance
+trough_sim,0.17809523809523814,0.08044518985886334
+neckline_slope_per_day,0.055238095238095274,0.02921497457176755
+p1_to_l1_t,0.009999999999999998,0.00837066468154617
+px_vs_ma50_l2,1.1102230246251566e-17,3.33066907387547e-17
+drop1_norm,0.0,0.0
+rise1_norm,0.0,0.0
+drop2_norm,0.0,0.0
+spread_t,0.0,0.0
+l1_to_p2_t,0.0,0.0
+p2_to_l2_t,0.0,0.0
+rsi_p2,0.0,0.0
+rsi_l2,0.0,0.0
+vol_ratio_p2,0.0,0.0
+vol_ratio_l2,0.0,0.0
+px_vs_ma20_p2,0.0,0.0
+px_vs_ma20_l2,0.0,0.0

@@ -1,0 +1,46 @@
+{
+  "scan_date": "2025-09-13T15:32:30.587661",
+  "total_candidates": 5,
+  "candidates": [
+    {
+      "symbol": "MSFT",
+      "ml_probability": 0.6129625727107559,
+      "ml_confidence": 0.7472883273444694,
+      "current_price": 509.8999938964844,
+      "target_price": 606.6204777839499,
+      "upside_potential": 18.968520306964532
+    },
+    {
+      "symbol": "TSLA",
+      "ml_probability": 0.6129625727107559,
+      "ml_confidence": 0.747724537510165,
+      "current_price": 395.94000244140625,
+      "target_price": 471.5468668488484,
+      "upside_potential": 19.095535672385356
+    },
+    {
+      "symbol": "JPM",
+      "ml_probability": 0.6129625727107559,
+      "ml_confidence": 0.7476318200488214,
+      "current_price": 306.9100036621094,
+      "target_price": 363.9865263982292,
+      "upside_potential": 18.59715292922087
+    },
+    {
+      "symbol": "HD",
+      "ml_probability": 0.6129625727107559,
+      "ml_confidence": 0.747724537510165,
+      "current_price": 422.69000244140625,
+      "target_price": 503.4049226412115,
+      "upside_potential": 19.095535672385353
+    },
+    {
+      "symbol": "NFLX",
+      "ml_probability": 0.6056548804030636,
+      "ml_confidence": 0.7466341923536326,
+      "current_price": 1188.43994140625,
+      "target_price": 1412.2995880196374,
+      "upside_potential": 18.836429070912928
+    }
+  ]
+}

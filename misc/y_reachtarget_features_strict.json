@@ -1,0 +1,43 @@
+{
+  "model_type": "strict_ensemble",
+  "features": [
+    "trough_sim",
+    "regime_volatility",
+    "volume_accumulation_ratio",
+    "pattern_trough_consistency",
+    "market_position",
+    "trend_context",
+    "volatility_context",
+    "recovery_strength"
+  ],
+  "target": "y_reachtarget",
+  "n_samples": 30,
+  "class_distribution": {
+    "negative": 10,
+    "positive": 20
+  },
+  "cv_metrics": {
+    "auc": 0.0,
+    "precision": 0.5,
+    "recall": 1.0
+  },
+  "feature_importance": {
+    "trough_sim": 0.0,
+    "regime_volatility": 0.0,
+    "volume_accumulation_ratio": 0.0,
+    "pattern_trough_consistency": 0.0,
+    "market_position": 0.0,
+    "trend_context": 0.0,
+    "volatility_context": 0.0,
+    "recovery_strength": 0.0
+  },
+  "training_config": {
+    "strict_mode": true,
+    "min_quality_score": 0.02,
+    "min_overall_range": 0.03,
+    "max_trough_similarity": 0.15,
+    "calibration_method": "sigmoid"
+  },
+  "quality_filters_applied": true,
+  "timestamp": "2025-09-14T01:51:16.789922"
+}

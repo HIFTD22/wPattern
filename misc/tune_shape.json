@@ -1,0 +1,105 @@
+{
+  "target": "y_shape",
+  "best": {
+    "name": "rf_300_mdNone_msl3",
+    "auc": 0.7652597402597402,
+    "view": "tabular"
+  },
+  "leaderboard": [
+    {
+      "name": "rf_300_mdNone_msl3",
+      "auc": 0.7652597402597402,
+      "view": "tabular"
+    },
+    {
+      "name": "rf_300_md5_msl3",
+      "auc": 0.7652597402597402,
+      "view": "tabular"
+    },
+    {
+      "name": "gb_lr0.05_md3",
+      "auc": 0.7558982683982686,
+      "view": "tabular"
+    },
+    {
+      "name": "rf_300_mdNone_msl1",
+      "auc": 0.7390151515151514,
+      "view": "tabular"
+    },
+    {
+      "name": "rf_300_md5_msl1",
+      "auc": 0.7348484848484849,
+      "view": "tabular"
+    },
+    {
+      "name": "xgb_lr0.05",
+      "auc": 0.7290584415584416,
+      "view": "tabular"
+    },
+    {
+      "name": "xgb_lr0.1",
+      "auc": 0.7287337662337663,
+      "view": "tabular"
+    },
+    {
+      "name": "gb_lr0.1_md3",
+      "auc": 0.7219155844155845,
+      "view": "tabular"
+    },
+    {
+      "name": "gb_lr0.05_md2",
+      "auc": 0.7060064935064935,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l2_C0.1",
+      "auc": 0.6954545454545454,
+      "view": "tabular"
+    },
+    {
+      "name": "gb_lr0.1_md2",
+      "auc": 0.6929112554112553,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l1_C1.0",
+      "auc": 0.6856060606060606,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l2_C1.0",
+      "auc": 0.6622294372294372,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l2_C10.0",
+      "auc": 0.6114718614718615,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l1_C10.0",
+      "auc": 0.6006493506493507,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l1_C0.1",
+      "auc": 0.5,
+      "view": "tabular"
+    },
+    {
+      "name": "lgbm_lr0.05",
+      "auc": 0.5,
+      "view": "tabular"
+    },
+    {
+      "name": "lgbm_lr0.1",
+      "auc": 0.5,
+      "view": "tabular"
+    },
+    {
+      "name": "lgbm_mono",
+      "auc": 0.5,
+      "view": "tabular"
+    }
+  ]
+}

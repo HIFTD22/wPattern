@@ -1,0 +1,3371 @@
+[
+  {
+    "success": true,
+    "filename": "BRK.B_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "172",
+          "y": "251",
+          "index": "1"
+        },
+        "right_valley": {
+          "x": "176",
+          "y": "221",
+          "index": "13"
+        },
+        "neckline": {
+          "x": "174",
+          "y": "318",
+          "index": "6"
+        },
+        "pattern_width": "4",
+        "pattern_height": "97",
+        "price_target": "415",
+        "confidence": 0.7443627551649074,
+        "depth_symmetry": 0.8804780876494024,
+        "formation_quality": 0.7443627551649074
+      },
+      {
+        "left_valley": {
+          "x": "172",
+          "y": "251",
+          "index": "1"
+        },
+        "right_valley": {
+          "x": "177",
+          "y": "258",
+          "index": "19"
+        },
+        "neckline": {
+          "x": "174",
+          "y": "318",
+          "index": "6"
+        },
+        "pattern_width": "5",
+        "pattern_height": "67",
+        "price_target": "385",
+        "confidence": 0.793896795094296,
+        "depth_symmetry": 0.9728682170542635,
+        "formation_quality": 0.793896795094296
+      },
+      {
+        "left_valley": {
+          "x": "172",
+          "y": "251",
+          "index": "1"
+        },
+        "right_valley": {
+          "x": "177",
+          "y": "252",
+          "index": "22"
+        },
+        "neckline": {
+          "x": "174",
+          "y": "318",
+          "index": "6"
+        },
+        "pattern_width": "5",
+        "pattern_height": "67",
+        "price_target": "385",
+        "confidence": 0.8054785595830373,
+        "depth_symmetry": 0.996031746031746,
+        "formation_quality": 0.8054785595830373
+      },
+      {
+        "left_valley": {
+          "x": "173",
+          "y": "248",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "177",
+          "y": "258",
+          "index": "19"
+        },
+        "neckline": {
+          "x": "174",
+          "y": "318",
+          "index": "6"
+        },
+        "pattern_width": "4",
+        "pattern_height": "70",
+        "price_target": "388",
+        "confidence": 0.7573021826885292,
+        "depth_symmetry": 0.9612403100775194,
+        "formation_quality": 0.7573021826885292
+      },
+      {
+        "left_valley": {
+          "x": "173",
+          "y": "248",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "177",
+          "y": "252",
+          "index": "22"
+        },
+        "neckline": {
+          "x": "174",
+          "y": "318",
+          "index": "6"
+        },
+        "pattern_width": "4",
+        "pattern_height": "70",
+        "price_target": "388",
+        "confidence": 0.7687455197132617,
+        "depth_symmetry": 0.9841269841269842,
+        "formation_quality": 0.7687455197132617
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        464,
+        281,
+        3
+      ],
+      "data_points": 31
+    }
+  },
+  {
+    "success": true,
+    "filename": "COF_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "39",
+          "y": "405",
+          "index": "7"
+        },
+        "right_valley": {
+          "x": "57",
+          "y": "347",
+          "index": "69"
+        },
+        "neckline": {
+          "x": "51",
+          "y": "444",
+          "index": "47"
+        },
+        "pattern_width": "18",
+        "pattern_height": "97",
+        "price_target": "541",
+        "confidence": 0.7469517627593228,
+        "depth_symmetry": 0.8567901234567901,
+        "formation_quality": 0.7469517627593228
+      },
+      {
+        "left_valley": {
+          "x": "39",
+          "y": "405",
+          "index": "7"
+        },
+        "right_valley": {
+          "x": "63",
+          "y": "383",
+          "index": "85"
+        },
+        "neckline": {
+          "x": "57",
+          "y": "446",
+          "index": "66"
+        },
+        "pattern_width": "24",
+        "pattern_height": "63",
+        "price_target": "509",
+        "confidence": 0.8109347442680775,
+        "depth_symmetry": 0.945679012345679,
+        "formation_quality": 0.8109347442680775
+      },
+      {
+        "left_valley": {
+          "x": "39",
+          "y": "405",
+          "index": "7"
+        },
+        "right_valley": {
+          "x": "67",
+          "y": "395",
+          "index": "101"
+        },
+        "neckline": {
+          "x": "57",
+          "y": "446",
+          "index": "66"
+        },
+        "pattern_width": "28",
+        "pattern_height": "51",
+        "price_target": "497",
+        "confidence": 0.8359809393062146,
+        "depth_symmetry": 0.9753086419753086,
+        "formation_quality": 0.8359809393062146
+      },
+      {
+        "left_valley": {
+          "x": "39",
+          "y": "405",
+          "index": "7"
+        },
+        "right_valley": {
+          "x": "71",
+          "y": "428",
+          "index": "117"
+        },
+        "neckline": {
+          "x": "67",
+          "y": "462",
+          "index": "102"
+        },
+        "pattern_width": "32",
+        "pattern_height": "57",
+        "price_target": "519",
+        "confidence": 0.8292711919986883,
+        "depth_symmetry": 0.9462616822429907,
+        "formation_quality": 0.8292711919986883
+      },
+      {
+        "left_valley": {
+          "x": "39",
+          "y": "405",
+          "index": "7"
+        },
+        "right_valley": {
+          "x": "79",
+          "y": "437",
+          "index": "137"
+        },
+        "neckline": {
+          "x": "75",
+          "y": "473",
+          "index": "124"
+        },
+        "pattern_width": "40",
+        "pattern_height": "68",
+        "price_target": "541",
+        "confidence": 0.8222102571005518,
+        "depth_symmetry": 0.9267734553775744,
+        "formation_quality": 0.8222102571005518
+      },
+      {
+        "left_valley": {
+          "x": "43",
+          "y": "381",
+          "index": "21"
+        },
+        "right_valley": {
+          "x": "63",
+          "y": "383",
+          "index": "85"
+        },
+        "neckline": {
+          "x": "57",
+          "y": "446",
+          "index": "66"
+        },
+        "pattern_width": "20",
+        "pattern_height": "65",
+        "price_target": "511",
+        "confidence": 0.7952815523830224,
+        "depth_symmetry": 0.9947780678851175,
+        "formation_quality": 0.7952815523830224
+      },
+      {
+        "left_valley": {
+          "x": "43",
+          "y": "381",
+          "index": "21"
+        },
+        "right_valley": {
+          "x": "67",
+          "y": "395",
+          "index": "101"
+        },
+        "neckline": {
+          "x": "57",
+          "y": "446",
+          "index": "66"
+        },
+        "pattern_width": "24",
+        "pattern_height": "65",
+        "price_target": "511",
+        "confidence": 0.8192015579357351,
+        "depth_symmetry": 0.9645569620253165,
+        "formation_quality": 0.8192015579357351
+      },
+      {
+        "left_valley": {
+          "x": "43",
+          "y": "381",
+          "index": "21"
+        },
+        "right_valley": {
+          "x": "71",
+          "y": "428",
+          "index": "117"
+        },
+        "neckline": {
+          "x": "67",
+          "y": "462",
+          "index": "102"
+        },
+        "pattern_width": "28",
+        "pattern_height": "81",
+        "price_target": "543",
+        "confidence": 0.7796613591784931,
+        "depth_symmetry": 0.8901869158878505,
+        "formation_quality": 0.7796613591784931
+      },
+      {
+        "left_valley": {
+          "x": "43",
+          "y": "381",
+          "index": "21"
+        },
+        "right_valley": {
+          "x": "79",
+          "y": "437",
+          "index": "137"
+        },
+        "neckline": {
+          "x": "75",
+          "y": "473",
+          "index": "124"
+        },
+        "pattern_width": "36",
+        "pattern_height": "92",
+        "price_target": "565",
+        "confidence": 0.7750572082379863,
+        "depth_symmetry": 0.8718535469107551,
+        "formation_quality": 0.7750572082379863
+      },
+      {
+        "left_valley": {
+          "x": "49",
+          "y": "406",
+          "index": "40"
+        },
+        "right_valley": {
+          "x": "67",
+          "y": "395",
+          "index": "101"
+        },
+        "neckline": {
+          "x": "57",
+          "y": "446",
+          "index": "66"
+        },
+        "pattern_width": "18",
+        "pattern_height": "51",
+        "price_target": "497",
+        "confidence": 0.7103774566038036,
+        "depth_symmetry": 0.9729064039408867,
+        "formation_quality": 0.7103774566038036
+      },
+      {
+        "left_valley": {
+          "x": "49",
+          "y": "406",
+          "index": "40"
+        },
+        "right_valley": {
+          "x": "71",
+          "y": "428",
+          "index": "117"
+        },
+        "neckline": {
+          "x": "67",
+          "y": "462",
+          "index": "102"
+        },
+        "pattern_width": "22",
+        "pattern_height": "56",
+        "price_target": "518",
+        "confidence": 0.7667354646377819,
+        "depth_symmetry": 0.9485981308411215,
+        "formation_quality": 0.7667354646377819
+      },
+      {
+        "left_valley": {
+          "x": "49",
+          "y": "406",
+          "index": "40"
+        },
+        "right_valley": {
+          "x": "79",
+          "y": "437",
+          "index": "137"
+        },
+        "neckline": {
+          "x": "75",
+          "y": "473",
+          "index": "124"
+        },
+        "pattern_width": "30",
+        "pattern_height": "67",
+        "price_target": "540",
+        "confidence": 0.8093070118514977,
+        "depth_symmetry": 0.9290617848970252,
+        "formation_quality": 0.8093070118514977
+      },
+      {
+        "left_valley": {
+          "x": "53",
+          "y": "391",
+          "index": "55"
+        },
+        "right_valley": {
+          "x": "71",
+          "y": "428",
+          "index": "117"
+        },
+        "neckline": {
+          "x": "67",
+          "y": "462",
+          "index": "102"
+        },
+        "pattern_width": "18",
+        "pattern_height": "71",
+        "price_target": "533",
+        "confidence": 0.744730553336663,
+        "depth_symmetry": 0.9135514018691588,
+        "formation_quality": 0.744730553336663
+      },
+      {
+        "left_valley": {
+          "x": "53",
+          "y": "391",
+          "index": "55"
+        },
+        "right_valley": {
+          "x": "79",
+          "y": "437",
+          "index": "137"
+        },
+        "neckline": {
+          "x": "75",
+          "y": "473",
+          "index": "124"
+        },
+        "pattern_width": "26",
+        "pattern_height": "82",
+        "price_target": "555",
+        "confidence": 0.7790757381258023,
+        "depth_symmetry": 0.8947368421052632,
+        "formation_quality": 0.7790757381258023
+      },
+      {
+        "left_valley": {
+          "x": "63",
+          "y": "383",
+          "index": "85"
+        },
+        "right_valley": {
+          "x": "79",
+          "y": "437",
+          "index": "137"
+        },
+        "neckline": {
+          "x": "75",
+          "y": "473",
+          "index": "124"
+        },
+        "pattern_width": "16",
+        "pattern_height": "90",
+        "price_target": "563",
+        "confidence": 0.7518832917115102,
+        "depth_symmetry": 0.8764302059496567,
+        "formation_quality": 0.7518832917115102
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        622,
+        264,
+        3
+      ],
+      "data_points": 146
+    }
+  },
+  {
+    "success": true,
+    "filename": "CRWD_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "0",
+          "y": "524",
+          "index": "2"
+        },
+        "right_valley": {
+          "x": "17",
+          "y": "543",
+          "index": "89"
+        },
+        "neckline": {
+          "x": "11",
+          "y": "617",
+          "index": "61"
+        },
+        "pattern_width": "17",
+        "pattern_height": "93",
+        "price_target": "710",
+        "confidence": 0.8007841739440384,
+        "depth_symmetry": 0.9650092081031307,
+        "formation_quality": 0.8007841739440384
+      },
+      {
+        "left_valley": {
+          "x": "0",
+          "y": "524",
+          "index": "2"
+        },
+        "right_valley": {
+          "x": "23",
+          "y": "545",
+          "index": "117"
+        },
+        "neckline": {
+          "x": "11",
+          "y": "617",
+          "index": "61"
+        },
+        "pattern_width": "23",
+        "pattern_height": "93",
+        "price_target": "710",
+        "confidence": 0.8054651277498274,
+        "depth_symmetry": 0.9614678899082569,
+        "formation_quality": 0.8054651277498274
+      },
+      {
+        "left_valley": {
+          "x": "0",
+          "y": "524",
+          "index": "2"
+        },
+        "right_valley": {
+          "x": "29",
+          "y": "526",
+          "index": "142"
+        },
+        "neckline": {
+          "x": "11",
+          "y": "617",
+          "index": "61"
+        },
+        "pattern_width": "29",
+        "pattern_height": "93",
+        "price_target": "710",
+        "confidence": 0.829281655014514,
+        "depth_symmetry": 0.9961977186311787,
+        "formation_quality": 0.829281655014514
+      },
+      {
+        "left_valley": {
+          "x": "2",
+          "y": "548",
+          "index": "20"
+        },
+        "right_valley": {
+          "x": "23",
+          "y": "545",
+          "index": "117"
+        },
+        "neckline": {
+          "x": "11",
+          "y": "617",
+          "index": "61"
+        },
+        "pattern_width": "21",
+        "pattern_height": "72",
+        "price_target": "689",
+        "confidence": 0.8171986711585252,
+        "depth_symmetry": 0.9945255474452555,
+        "formation_quality": 0.8171986711585252
+      },
+      {
+        "left_valley": {
+          "x": "2",
+          "y": "548",
+          "index": "20"
+        },
+        "right_valley": {
+          "x": "29",
+          "y": "526",
+          "index": "142"
+        },
+        "neckline": {
+          "x": "11",
+          "y": "617",
+          "index": "61"
+        },
+        "pattern_width": "27",
+        "pattern_height": "91",
+        "price_target": "708",
+        "confidence": 0.8095973369695998,
+        "depth_symmetry": 0.9598540145985401,
+        "formation_quality": 0.8095973369695998
+      },
+      {
+        "left_valley": {
+          "x": "5",
+          "y": "554",
+          "index": "41"
+        },
+        "right_valley": {
+          "x": "23",
+          "y": "545",
+          "index": "117"
+        },
+        "neckline": {
+          "x": "11",
+          "y": "617",
+          "index": "61"
+        },
+        "pattern_width": "18",
+        "pattern_height": "72",
+        "price_target": "689",
+        "confidence": 0.7661080255484588,
+        "depth_symmetry": 0.983754512635379,
+        "formation_quality": 0.7661080255484588
+      },
+      {
+        "left_valley": {
+          "x": "5",
+          "y": "554",
+          "index": "41"
+        },
+        "right_valley": {
+          "x": "29",
+          "y": "526",
+          "index": "142"
+        },
+        "neckline": {
+          "x": "11",
+          "y": "617",
+          "index": "61"
+        },
+        "pattern_width": "24",
+        "pattern_height": "91",
+        "price_target": "708",
+        "confidence": 0.8011028682508826,
+        "depth_symmetry": 0.9494584837545126,
+        "formation_quality": 0.8011028682508826
+      },
+      {
+        "left_valley": {
+          "x": "10",
+          "y": "550",
+          "index": "59"
+        },
+        "right_valley": {
+          "x": "29",
+          "y": "526",
+          "index": "142"
+        },
+        "neckline": {
+          "x": "11",
+          "y": "617",
+          "index": "61"
+        },
+        "pattern_width": "19",
+        "pattern_height": "91",
+        "price_target": "708",
+        "confidence": 0.799060939060939,
+        "depth_symmetry": 0.9563636363636363,
+        "formation_quality": 0.799060939060939
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        640,
+        250,
+        3
+      ],
+      "data_points": 156
+    }
+  },
+  {
+    "success": true,
+    "filename": "DUK_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "392",
+          "y": "31",
+          "index": "1"
+        },
+        "right_valley": {
+          "x": "410",
+          "y": "29",
+          "index": "17"
+        },
+        "neckline": {
+          "x": "401",
+          "y": "50",
+          "index": "10"
+        },
+        "pattern_width": "18",
+        "pattern_height": "21",
+        "price_target": "71",
+        "confidence": 0.8534562211981568,
+        "depth_symmetry": 0.935483870967742,
+        "formation_quality": 0.8534562211981568
+      },
+      {
+        "left_valley": {
+          "x": "392",
+          "y": "31",
+          "index": "1"
+        },
+        "right_valley": {
+          "x": "414",
+          "y": "30",
+          "index": "21"
+        },
+        "neckline": {
+          "x": "401",
+          "y": "50",
+          "index": "10"
+        },
+        "pattern_width": "22",
+        "pattern_height": "20",
+        "price_target": "70",
+        "confidence": 0.8938709677419355,
+        "depth_symmetry": 0.967741935483871,
+        "formation_quality": 0.8938709677419355
+      },
+      {
+        "left_valley": {
+          "x": "392",
+          "y": "31",
+          "index": "1"
+        },
+        "right_valley": {
+          "x": "416",
+          "y": "32",
+          "index": "25"
+        },
+        "neckline": {
+          "x": "401",
+          "y": "50",
+          "index": "10"
+        },
+        "pattern_width": "24",
+        "pattern_height": "19",
+        "price_target": "69",
+        "confidence": 0.9106907894736842,
+        "depth_symmetry": 0.96875,
+        "formation_quality": 0.9106907894736842
+      },
+      {
+        "left_valley": {
+          "x": "392",
+          "y": "31",
+          "index": "1"
+        },
+        "right_valley": {
+          "x": "417",
+          "y": "34",
+          "index": "30"
+        },
+        "neckline": {
+          "x": "401",
+          "y": "50",
+          "index": "10"
+        },
+        "pattern_width": "25",
+        "pattern_height": "19",
+        "price_target": "69",
+        "confidence": 0.8874613003095975,
+        "depth_symmetry": 0.9117647058823529,
+        "formation_quality": 0.8874613003095975
+      },
+      {
+        "left_valley": {
+          "x": "394",
+          "y": "29",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "410",
+          "y": "29",
+          "index": "17"
+        },
+        "neckline": {
+          "x": "401",
+          "y": "50",
+          "index": "10"
+        },
+        "pattern_width": "16",
+        "pattern_height": "21",
+        "price_target": "71",
+        "confidence": 0.8761904761904762,
+        "depth_symmetry": 1.0,
+        "formation_quality": 0.8761904761904762
+      },
+      {
+        "left_valley": {
+          "x": "394",
+          "y": "29",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "414",
+          "y": "30",
+          "index": "21"
+        },
+        "neckline": {
+          "x": "401",
+          "y": "50",
+          "index": "10"
+        },
+        "pattern_width": "20",
+        "pattern_height": "21",
+        "price_target": "71",
+        "confidence": 0.8785714285714286,
+        "depth_symmetry": 0.9666666666666667,
+        "formation_quality": 0.8785714285714286
+      },
+      {
+        "left_valley": {
+          "x": "394",
+          "y": "29",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "416",
+          "y": "32",
+          "index": "25"
+        },
+        "neckline": {
+          "x": "401",
+          "y": "50",
+          "index": "10"
+        },
+        "pattern_width": "22",
+        "pattern_height": "21",
+        "price_target": "71",
+        "confidence": 0.8578869047619049,
+        "depth_symmetry": 0.90625,
+        "formation_quality": 0.8578869047619049
+      },
+      {
+        "left_valley": {
+          "x": "394",
+          "y": "29",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "417",
+          "y": "34",
+          "index": "30"
+        },
+        "neckline": {
+          "x": "401",
+          "y": "50",
+          "index": "10"
+        },
+        "pattern_width": "23",
+        "pattern_height": "21",
+        "price_target": "71",
+        "confidence": 0.8359943977591037,
+        "depth_symmetry": 0.8529411764705882,
+        "formation_quality": 0.8359943977591037
+      },
+      {
+        "left_valley": {
+          "x": "410",
+          "y": "29",
+          "index": "17"
+        },
+        "right_valley": {
+          "x": "414",
+          "y": "30",
+          "index": "21"
+        },
+        "neckline": {
+          "x": "412",
+          "y": "49",
+          "index": "19"
+        },
+        "pattern_width": "4",
+        "pattern_height": "20",
+        "price_target": "69",
+        "confidence": 0.576060606060606,
+        "depth_symmetry": 0.9666666666666667,
+        "formation_quality": 0.576060606060606
+      },
+      {
+        "left_valley": {
+          "x": "410",
+          "y": "29",
+          "index": "17"
+        },
+        "right_valley": {
+          "x": "416",
+          "y": "32",
+          "index": "25"
+        },
+        "neckline": {
+          "x": "412",
+          "y": "49",
+          "index": "19"
+        },
+        "pattern_width": "6",
+        "pattern_height": "20",
+        "price_target": "69",
+        "confidence": 0.5922159090909092,
+        "depth_symmetry": 0.90625,
+        "formation_quality": 0.5922159090909092
+      },
+      {
+        "left_valley": {
+          "x": "410",
+          "y": "29",
+          "index": "17"
+        },
+        "right_valley": {
+          "x": "417",
+          "y": "34",
+          "index": "30"
+        },
+        "neckline": {
+          "x": "412",
+          "y": "49",
+          "index": "19"
+        },
+        "pattern_width": "7",
+        "pattern_height": "20",
+        "price_target": "69",
+        "confidence": 0.5887433155080214,
+        "depth_symmetry": 0.8529411764705882,
+        "formation_quality": 0.5887433155080214
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        748,
+        442,
+        3
+      ],
+      "data_points": 33
+    }
+  },
+  {
+    "success": true,
+    "filename": "JPM_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "50",
+          "y": "272",
+          "index": "11"
+        },
+        "right_valley": {
+          "x": "63",
+          "y": "260",
+          "index": "57"
+        },
+        "neckline": {
+          "x": "56",
+          "y": "327",
+          "index": "32"
+        },
+        "pattern_width": "13",
+        "pattern_height": "67",
+        "price_target": "394",
+        "confidence": 0.7510334819335647,
+        "depth_symmetry": 0.9558823529411765,
+        "formation_quality": 0.7510334819335647
+      },
+      {
+        "left_valley": {
+          "x": "50",
+          "y": "272",
+          "index": "11"
+        },
+        "right_valley": {
+          "x": "68",
+          "y": "278",
+          "index": "74"
+        },
+        "neckline": {
+          "x": "56",
+          "y": "327",
+          "index": "32"
+        },
+        "pattern_width": "18",
+        "pattern_height": "55",
+        "price_target": "382",
+        "confidence": 0.8102854203839047,
+        "depth_symmetry": 0.9784172661870504,
+        "formation_quality": 0.8102854203839047
+      },
+      {
+        "left_valley": {
+          "x": "50",
+          "y": "272",
+          "index": "11"
+        },
+        "right_valley": {
+          "x": "74",
+          "y": "299",
+          "index": "97"
+        },
+        "neckline": {
+          "x": "56",
+          "y": "327",
+          "index": "32"
+        },
+        "pattern_width": "24",
+        "pattern_height": "55",
+        "price_target": "382",
+        "confidence": 0.7984858619641229,
+        "depth_symmetry": 0.9096989966555185,
+        "formation_quality": 0.7984858619641229
+      },
+      {
+        "left_valley": {
+          "x": "54",
+          "y": "276",
+          "index": "26"
+        },
+        "right_valley": {
+          "x": "68",
+          "y": "278",
+          "index": "74"
+        },
+        "neckline": {
+          "x": "56",
+          "y": "327",
+          "index": "32"
+        },
+        "pattern_width": "14",
+        "pattern_height": "51",
+        "price_target": "378",
+        "confidence": 0.7318150231385423,
+        "depth_symmetry": 0.9928057553956835,
+        "formation_quality": 0.7318150231385423
+      },
+      {
+        "left_valley": {
+          "x": "54",
+          "y": "276",
+          "index": "26"
+        },
+        "right_valley": {
+          "x": "74",
+          "y": "299",
+          "index": "97"
+        },
+        "neckline": {
+          "x": "56",
+          "y": "327",
+          "index": "32"
+        },
+        "pattern_width": "20",
+        "pattern_height": "51",
+        "price_target": "378",
+        "confidence": 0.7978415264537481,
+        "depth_symmetry": 0.9230769230769231,
+        "formation_quality": 0.7978415264537481
+      },
+      {
+        "left_valley": {
+          "x": "57",
+          "y": "281",
+          "index": "36"
+        },
+        "right_valley": {
+          "x": "68",
+          "y": "278",
+          "index": "74"
+        },
+        "neckline": {
+          "x": "65",
+          "y": "314",
+          "index": "64"
+        },
+        "pattern_width": "11",
+        "pattern_height": "36",
+        "price_target": "350",
+        "confidence": 0.6405572830889833,
+        "depth_symmetry": 0.9893238434163701,
+        "formation_quality": 0.6405572830889833
+      },
+      {
+        "left_valley": {
+          "x": "57",
+          "y": "281",
+          "index": "36"
+        },
+        "right_valley": {
+          "x": "74",
+          "y": "299",
+          "index": "97"
+        },
+        "neckline": {
+          "x": "71",
+          "y": "325",
+          "index": "91"
+        },
+        "pattern_width": "17",
+        "pattern_height": "44",
+        "price_target": "369",
+        "confidence": 0.7264001068581061,
+        "depth_symmetry": 0.939799331103679,
+        "formation_quality": 0.7264001068581061
+      },
+      {
+        "left_valley": {
+          "x": "60",
+          "y": "254",
+          "index": "46"
+        },
+        "right_valley": {
+          "x": "74",
+          "y": "299",
+          "index": "97"
+        },
+        "neckline": {
+          "x": "71",
+          "y": "325",
+          "index": "91"
+        },
+        "pattern_width": "14",
+        "pattern_height": "71",
+        "price_target": "396",
+        "confidence": 0.7339820368455496,
+        "depth_symmetry": 0.8494983277591973,
+        "formation_quality": 0.7339820368455496
+      },
+      {
+        "left_valley": {
+          "x": "63",
+          "y": "260",
+          "index": "57"
+        },
+        "right_valley": {
+          "x": "74",
+          "y": "299",
+          "index": "97"
+        },
+        "neckline": {
+          "x": "71",
+          "y": "325",
+          "index": "91"
+        },
+        "pattern_width": "11",
+        "pattern_height": "65",
+        "price_target": "390",
+        "confidence": 0.6599581128031952,
+        "depth_symmetry": 0.8695652173913043,
+        "formation_quality": 0.6599581128031952
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        579,
+        229,
+        3
+      ],
+      "data_points": 103
+    }
+  },
+  {
+    "success": true,
+    "filename": "MS_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "156",
+          "y": "170",
+          "index": "8"
+        },
+        "right_valley": {
+          "x": "164",
+          "y": "136",
+          "index": "36"
+        },
+        "neckline": {
+          "x": "162",
+          "y": "252",
+          "index": "33"
+        },
+        "pattern_width": "8",
+        "pattern_height": "116",
+        "price_target": "368",
+        "confidence": 0.7068965517241379,
+        "depth_symmetry": 0.8,
+        "formation_quality": 0.7068965517241379
+      },
+      {
+        "left_valley": {
+          "x": "156",
+          "y": "170",
+          "index": "8"
+        },
+        "right_valley": {
+          "x": "166",
+          "y": "199",
+          "index": "48"
+        },
+        "neckline": {
+          "x": "162",
+          "y": "252",
+          "index": "33"
+        },
+        "pattern_width": "10",
+        "pattern_height": "82",
+        "price_target": "334",
+        "confidence": 0.7393308003431793,
+        "depth_symmetry": 0.8542713567839196,
+        "formation_quality": 0.7393308003431793
+      },
+      {
+        "left_valley": {
+          "x": "156",
+          "y": "170",
+          "index": "8"
+        },
+        "right_valley": {
+          "x": "168",
+          "y": "181",
+          "index": "55"
+        },
+        "neckline": {
+          "x": "166",
+          "y": "259",
+          "index": "45"
+        },
+        "pattern_width": "12",
+        "pattern_height": "89",
+        "price_target": "348",
+        "confidence": 0.7830964057359241,
+        "depth_symmetry": 0.9392265193370166,
+        "formation_quality": 0.7830964057359241
+      },
+      {
+        "left_valley": {
+          "x": "156",
+          "y": "170",
+          "index": "8"
+        },
+        "right_valley": {
+          "x": "171",
+          "y": "206",
+          "index": "64"
+        },
+        "neckline": {
+          "x": "168",
+          "y": "282",
+          "index": "57"
+        },
+        "pattern_width": "15",
+        "pattern_height": "112",
+        "price_target": "394",
+        "confidence": 0.726014216366158,
+        "depth_symmetry": 0.8252427184466019,
+        "formation_quality": 0.726014216366158
+      },
+      {
+        "left_valley": {
+          "x": "160",
+          "y": "197",
+          "index": "20"
+        },
+        "right_valley": {
+          "x": "168",
+          "y": "181",
+          "index": "55"
+        },
+        "neckline": {
+          "x": "166",
+          "y": "259",
+          "index": "45"
+        },
+        "pattern_width": "8",
+        "pattern_height": "78",
+        "price_target": "337",
+        "confidence": 0.7532836368369362,
+        "depth_symmetry": 0.9187817258883249,
+        "formation_quality": 0.7532836368369362
+      },
+      {
+        "left_valley": {
+          "x": "160",
+          "y": "197",
+          "index": "20"
+        },
+        "right_valley": {
+          "x": "171",
+          "y": "206",
+          "index": "64"
+        },
+        "neckline": {
+          "x": "168",
+          "y": "282",
+          "index": "57"
+        },
+        "pattern_width": "11",
+        "pattern_height": "85",
+        "price_target": "367",
+        "confidence": 0.7910965162764134,
+        "depth_symmetry": 0.9563106796116505,
+        "formation_quality": 0.7910965162764134
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        627,
+        308,
+        3
+      ],
+      "data_points": 66
+    }
+  },
+  {
+    "success": true,
+    "filename": "NFLX_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "8",
+          "y": "539",
+          "index": "22"
+        },
+        "right_valley": {
+          "x": "28",
+          "y": "518",
+          "index": "81"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "20",
+        "pattern_height": "42",
+        "price_target": "602",
+        "confidence": 0.6614718614718615,
+        "depth_symmetry": 0.961038961038961,
+        "formation_quality": 0.6614718614718615
+      },
+      {
+        "left_valley": {
+          "x": "8",
+          "y": "539",
+          "index": "22"
+        },
+        "right_valley": {
+          "x": "34",
+          "y": "503",
+          "index": "102"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "26",
+        "pattern_height": "57",
+        "price_target": "617",
+        "confidence": 0.7474569540734954,
+        "depth_symmetry": 0.9332096474953617,
+        "formation_quality": 0.7474569540734954
+      },
+      {
+        "left_valley": {
+          "x": "8",
+          "y": "539",
+          "index": "22"
+        },
+        "right_valley": {
+          "x": "38",
+          "y": "476",
+          "index": "121"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "30",
+        "pattern_height": "84",
+        "price_target": "644",
+        "confidence": 0.7772727272727272,
+        "depth_symmetry": 0.8831168831168831,
+        "formation_quality": 0.7772727272727272
+      },
+      {
+        "left_valley": {
+          "x": "8",
+          "y": "539",
+          "index": "22"
+        },
+        "right_valley": {
+          "x": "49",
+          "y": "484",
+          "index": "143"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "41",
+        "pattern_height": "76",
+        "price_target": "636",
+        "confidence": 0.8029269602577873,
+        "depth_symmetry": 0.8979591836734694,
+        "formation_quality": 0.8029269602577873
+      },
+      {
+        "left_valley": {
+          "x": "8",
+          "y": "539",
+          "index": "22"
+        },
+        "right_valley": {
+          "x": "58",
+          "y": "479",
+          "index": "166"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "50",
+        "pattern_height": "81",
+        "price_target": "641",
+        "confidence": 0.8060697679745299,
+        "depth_symmetry": 0.888682745825603,
+        "formation_quality": 0.8060697679745299
+      },
+      {
+        "left_valley": {
+          "x": "8",
+          "y": "539",
+          "index": "22"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "485",
+          "index": "186"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "56",
+        "pattern_height": "75",
+        "price_target": "635",
+        "confidence": 0.8245739022881879,
+        "depth_symmetry": 0.8998144712430427,
+        "formation_quality": 0.8245739022881879
+      },
+      {
+        "left_valley": {
+          "x": "16",
+          "y": "540",
+          "index": "43"
+        },
+        "right_valley": {
+          "x": "38",
+          "y": "476",
+          "index": "121"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "22",
+        "pattern_height": "84",
+        "price_target": "644",
+        "confidence": 0.7602645502645503,
+        "depth_symmetry": 0.8814814814814815,
+        "formation_quality": 0.7602645502645503
+      },
+      {
+        "left_valley": {
+          "x": "16",
+          "y": "540",
+          "index": "43"
+        },
+        "right_valley": {
+          "x": "49",
+          "y": "484",
+          "index": "143"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "33",
+        "pattern_height": "76",
+        "price_target": "636",
+        "confidence": 0.791569200779727,
+        "depth_symmetry": 0.8962962962962963,
+        "formation_quality": 0.791569200779727
+      },
+      {
+        "left_valley": {
+          "x": "16",
+          "y": "540",
+          "index": "43"
+        },
+        "right_valley": {
+          "x": "58",
+          "y": "479",
+          "index": "166"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "42",
+        "pattern_height": "81",
+        "price_target": "641",
+        "confidence": 0.7953703703703703,
+        "depth_symmetry": 0.8870370370370371,
+        "formation_quality": 0.7953703703703703
+      },
+      {
+        "left_valley": {
+          "x": "16",
+          "y": "540",
+          "index": "43"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "485",
+          "index": "186"
+        },
+        "neckline": {
+          "x": "20",
+          "y": "560",
+          "index": "54"
+        },
+        "pattern_width": "48",
+        "pattern_height": "75",
+        "price_target": "635",
+        "confidence": 0.8130740740740741,
+        "depth_symmetry": 0.8981481481481481,
+        "formation_quality": 0.8130740740740741
+      },
+      {
+        "left_valley": {
+          "x": "22",
+          "y": "532",
+          "index": "61"
+        },
+        "right_valley": {
+          "x": "49",
+          "y": "484",
+          "index": "143"
+        },
+        "neckline": {
+          "x": "29",
+          "y": "545",
+          "index": "86"
+        },
+        "pattern_width": "27",
+        "pattern_height": "61",
+        "price_target": "606",
+        "confidence": 0.7605780845556515,
+        "depth_symmetry": 0.9097744360902256,
+        "formation_quality": 0.7605780845556515
+      },
+      {
+        "left_valley": {
+          "x": "22",
+          "y": "532",
+          "index": "61"
+        },
+        "right_valley": {
+          "x": "58",
+          "y": "479",
+          "index": "166"
+        },
+        "neckline": {
+          "x": "29",
+          "y": "545",
+          "index": "86"
+        },
+        "pattern_width": "36",
+        "pattern_height": "66",
+        "price_target": "611",
+        "confidence": 0.8047334244702665,
+        "depth_symmetry": 0.900375939849624,
+        "formation_quality": 0.8047334244702665
+      },
+      {
+        "left_valley": {
+          "x": "22",
+          "y": "532",
+          "index": "61"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "485",
+          "index": "186"
+        },
+        "neckline": {
+          "x": "29",
+          "y": "545",
+          "index": "86"
+        },
+        "pattern_width": "42",
+        "pattern_height": "60",
+        "price_target": "605",
+        "confidence": 0.8258270676691729,
+        "depth_symmetry": 0.9116541353383458,
+        "formation_quality": 0.8258270676691729
+      },
+      {
+        "left_valley": {
+          "x": "28",
+          "y": "518",
+          "index": "81"
+        },
+        "right_valley": {
+          "x": "49",
+          "y": "484",
+          "index": "143"
+        },
+        "neckline": {
+          "x": "29",
+          "y": "545",
+          "index": "86"
+        },
+        "pattern_width": "21",
+        "pattern_height": "61",
+        "price_target": "606",
+        "confidence": 0.7049410300229972,
+        "depth_symmetry": 0.9343629343629344,
+        "formation_quality": 0.7049410300229972
+      },
+      {
+        "left_valley": {
+          "x": "28",
+          "y": "518",
+          "index": "81"
+        },
+        "right_valley": {
+          "x": "58",
+          "y": "479",
+          "index": "166"
+        },
+        "neckline": {
+          "x": "29",
+          "y": "545",
+          "index": "86"
+        },
+        "pattern_width": "30",
+        "pattern_height": "66",
+        "price_target": "611",
+        "confidence": 0.8078097578097578,
+        "depth_symmetry": 0.9247104247104247,
+        "formation_quality": 0.8078097578097578
+      },
+      {
+        "left_valley": {
+          "x": "28",
+          "y": "518",
+          "index": "81"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "485",
+          "index": "186"
+        },
+        "neckline": {
+          "x": "29",
+          "y": "545",
+          "index": "86"
+        },
+        "pattern_width": "36",
+        "pattern_height": "60",
+        "price_target": "605",
+        "confidence": 0.8281467181467181,
+        "depth_symmetry": 0.9362934362934363,
+        "formation_quality": 0.8281467181467181
+      },
+      {
+        "left_valley": {
+          "x": "34",
+          "y": "503",
+          "index": "102"
+        },
+        "right_valley": {
+          "x": "58",
+          "y": "479",
+          "index": "166"
+        },
+        "neckline": {
+          "x": "44",
+          "y": "519",
+          "index": "134"
+        },
+        "pattern_width": "24",
+        "pattern_height": "40",
+        "price_target": "559",
+        "confidence": 0.688524093534034,
+        "depth_symmetry": 0.9522862823061631,
+        "formation_quality": 0.688524093534034
+      },
+      {
+        "left_valley": {
+          "x": "34",
+          "y": "503",
+          "index": "102"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "485",
+          "index": "186"
+        },
+        "neckline": {
+          "x": "44",
+          "y": "519",
+          "index": "134"
+        },
+        "pattern_width": "30",
+        "pattern_height": "34",
+        "price_target": "553",
+        "confidence": 0.7322474118872201,
+        "depth_symmetry": 0.9642147117296223,
+        "formation_quality": 0.7322474118872201
+      },
+      {
+        "left_valley": {
+          "x": "38",
+          "y": "476",
+          "index": "121"
+        },
+        "right_valley": {
+          "x": "58",
+          "y": "479",
+          "index": "166"
+        },
+        "neckline": {
+          "x": "44",
+          "y": "519",
+          "index": "134"
+        },
+        "pattern_width": "20",
+        "pattern_height": "43",
+        "price_target": "562",
+        "confidence": 0.6798880404065625,
+        "depth_symmetry": 0.9937369519832986,
+        "formation_quality": 0.6798880404065625
+      },
+      {
+        "left_valley": {
+          "x": "38",
+          "y": "476",
+          "index": "121"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "485",
+          "index": "186"
+        },
+        "neckline": {
+          "x": "44",
+          "y": "519",
+          "index": "134"
+        },
+        "pattern_width": "26",
+        "pattern_height": "43",
+        "price_target": "562",
+        "confidence": 0.7286470832239234,
+        "depth_symmetry": 0.9814432989690721,
+        "formation_quality": 0.7286470832239234
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        581,
+        265,
+        3
+      ],
+      "data_points": 189
+    }
+  },
+  {
+    "success": true,
+    "filename": "ORCL_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "44",
+          "y": "32",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "49",
+          "y": "27",
+          "index": "15"
+        },
+        "neckline": {
+          "x": "47",
+          "y": "46",
+          "index": "10"
+        },
+        "pattern_width": "5",
+        "pattern_height": "19",
+        "price_target": "65",
+        "confidence": 0.5194407894736842,
+        "depth_symmetry": 0.84375,
+        "formation_quality": 0.5194407894736842
+      },
+      {
+        "left_valley": {
+          "x": "44",
+          "y": "32",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "53",
+          "y": "26",
+          "index": "19"
+        },
+        "neckline": {
+          "x": "49",
+          "y": "47",
+          "index": "14"
+        },
+        "pattern_width": "9",
+        "pattern_height": "21",
+        "price_target": "68",
+        "confidence": 0.5908571428571429,
+        "depth_symmetry": 0.8125,
+        "formation_quality": 0.5908571428571429
+      },
+      {
+        "left_valley": {
+          "x": "44",
+          "y": "32",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "56",
+          "y": "27",
+          "index": "23"
+        },
+        "neckline": {
+          "x": "53",
+          "y": "48",
+          "index": "18"
+        },
+        "pattern_width": "12",
+        "pattern_height": "21",
+        "price_target": "69",
+        "confidence": 0.6680178571428572,
+        "depth_symmetry": 0.84375,
+        "formation_quality": 0.6680178571428572
+      },
+      {
+        "left_valley": {
+          "x": "44",
+          "y": "32",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "61",
+          "y": "28",
+          "index": "28"
+        },
+        "neckline": {
+          "x": "53",
+          "y": "48",
+          "index": "18"
+        },
+        "pattern_width": "17",
+        "pattern_height": "20",
+        "price_target": "68",
+        "confidence": 0.7775,
+        "depth_symmetry": 0.875,
+        "formation_quality": 0.7775
+      },
+      {
+        "left_valley": {
+          "x": "44",
+          "y": "32",
+          "index": "5"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "32",
+          "index": "34"
+        },
+        "neckline": {
+          "x": "53",
+          "y": "48",
+          "index": "18"
+        },
+        "pattern_width": "20",
+        "pattern_height": "16",
+        "price_target": "64",
+        "confidence": 0.865,
+        "depth_symmetry": 1.0,
+        "formation_quality": 0.865
+      },
+      {
+        "left_valley": {
+          "x": "47",
+          "y": "28",
+          "index": "11"
+        },
+        "right_valley": {
+          "x": "53",
+          "y": "26",
+          "index": "19"
+        },
+        "neckline": {
+          "x": "49",
+          "y": "47",
+          "index": "14"
+        },
+        "pattern_width": "6",
+        "pattern_height": "21",
+        "price_target": "68",
+        "confidence": 0.5873571428571429,
+        "depth_symmetry": 0.9285714285714286,
+        "formation_quality": 0.5873571428571429
+      },
+      {
+        "left_valley": {
+          "x": "47",
+          "y": "28",
+          "index": "11"
+        },
+        "right_valley": {
+          "x": "56",
+          "y": "27",
+          "index": "23"
+        },
+        "neckline": {
+          "x": "53",
+          "y": "48",
+          "index": "18"
+        },
+        "pattern_width": "9",
+        "pattern_height": "21",
+        "price_target": "69",
+        "confidence": 0.66675,
+        "depth_symmetry": 0.9642857142857143,
+        "formation_quality": 0.66675
+      },
+      {
+        "left_valley": {
+          "x": "47",
+          "y": "28",
+          "index": "11"
+        },
+        "right_valley": {
+          "x": "61",
+          "y": "28",
+          "index": "28"
+        },
+        "neckline": {
+          "x": "53",
+          "y": "48",
+          "index": "18"
+        },
+        "pattern_width": "14",
+        "pattern_height": "20",
+        "price_target": "68",
+        "confidence": 0.7799999999999999,
+        "depth_symmetry": 1.0,
+        "formation_quality": 0.7799999999999999
+      },
+      {
+        "left_valley": {
+          "x": "47",
+          "y": "28",
+          "index": "11"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "32",
+          "index": "34"
+        },
+        "neckline": {
+          "x": "53",
+          "y": "48",
+          "index": "18"
+        },
+        "pattern_width": "17",
+        "pattern_height": "20",
+        "price_target": "68",
+        "confidence": 0.7775,
+        "depth_symmetry": 0.875,
+        "formation_quality": 0.7775
+      },
+      {
+        "left_valley": {
+          "x": "49",
+          "y": "27",
+          "index": "15"
+        },
+        "right_valley": {
+          "x": "56",
+          "y": "27",
+          "index": "23"
+        },
+        "neckline": {
+          "x": "53",
+          "y": "48",
+          "index": "18"
+        },
+        "pattern_width": "7",
+        "pattern_height": "21",
+        "price_target": "69",
+        "confidence": 0.6435833333333333,
+        "depth_symmetry": 1.0,
+        "formation_quality": 0.6435833333333333
+      },
+      {
+        "left_valley": {
+          "x": "49",
+          "y": "27",
+          "index": "15"
+        },
+        "right_valley": {
+          "x": "61",
+          "y": "28",
+          "index": "28"
+        },
+        "neckline": {
+          "x": "53",
+          "y": "48",
+          "index": "18"
+        },
+        "pattern_width": "12",
+        "pattern_height": "21",
+        "price_target": "69",
+        "confidence": 0.7282857142857143,
+        "depth_symmetry": 0.9642857142857143,
+        "formation_quality": 0.7282857142857143
+      },
+      {
+        "left_valley": {
+          "x": "49",
+          "y": "27",
+          "index": "15"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "32",
+          "index": "34"
+        },
+        "neckline": {
+          "x": "53",
+          "y": "48",
+          "index": "18"
+        },
+        "pattern_width": "15",
+        "pattern_height": "21",
+        "price_target": "69",
+        "confidence": 0.7295535714285714,
+        "depth_symmetry": 0.84375,
+        "formation_quality": 0.7295535714285714
+      },
+      {
+        "left_valley": {
+          "x": "53",
+          "y": "26",
+          "index": "19"
+        },
+        "right_valley": {
+          "x": "61",
+          "y": "28",
+          "index": "28"
+        },
+        "neckline": {
+          "x": "55",
+          "y": "48",
+          "index": "21"
+        },
+        "pattern_width": "8",
+        "pattern_height": "22",
+        "price_target": "70",
+        "confidence": 0.6326493506493507,
+        "depth_symmetry": 0.9285714285714286,
+        "formation_quality": 0.6326493506493507
+      },
+      {
+        "left_valley": {
+          "x": "53",
+          "y": "26",
+          "index": "19"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "32",
+          "index": "34"
+        },
+        "neckline": {
+          "x": "55",
+          "y": "48",
+          "index": "21"
+        },
+        "pattern_width": "11",
+        "pattern_height": "22",
+        "price_target": "70",
+        "confidence": 0.63775,
+        "depth_symmetry": 0.8125,
+        "formation_quality": 0.63775
+      },
+      {
+        "left_valley": {
+          "x": "56",
+          "y": "27",
+          "index": "23"
+        },
+        "right_valley": {
+          "x": "61",
+          "y": "28",
+          "index": "28"
+        },
+        "neckline": {
+          "x": "59",
+          "y": "47",
+          "index": "25"
+        },
+        "pattern_width": "5",
+        "pattern_height": "20",
+        "price_target": "67",
+        "confidence": 0.5821428571428572,
+        "depth_symmetry": 0.9642857142857143,
+        "formation_quality": 0.5821428571428572
+      },
+      {
+        "left_valley": {
+          "x": "56",
+          "y": "27",
+          "index": "23"
+        },
+        "right_valley": {
+          "x": "64",
+          "y": "32",
+          "index": "34"
+        },
+        "neckline": {
+          "x": "59",
+          "y": "47",
+          "index": "25"
+        },
+        "pattern_width": "8",
+        "pattern_height": "20",
+        "price_target": "67",
+        "confidence": 0.581875,
+        "depth_symmetry": 0.84375,
+        "formation_quality": 0.581875
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        450,
+        137,
+        3
+      ],
+      "data_points": 40
+    }
+  },
+  {
+    "success": true,
+    "filename": "PLTR_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "192",
+          "y": "432",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "210",
+          "y": "466",
+          "index": "103"
+        },
+        "neckline": {
+          "x": "209",
+          "y": "562",
+          "index": "94"
+        },
+        "pattern_width": "18",
+        "pattern_height": "130",
+        "price_target": "692",
+        "confidence": 0.7773654671508748,
+        "depth_symmetry": 0.927038626609442,
+        "formation_quality": 0.7773654671508748
+      },
+      {
+        "left_valley": {
+          "x": "192",
+          "y": "432",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "213",
+          "y": "481",
+          "index": "124"
+        },
+        "neckline": {
+          "x": "212",
+          "y": "571",
+          "index": "109"
+        },
+        "pattern_width": "21",
+        "pattern_height": "139",
+        "price_target": "710",
+        "confidence": 0.7641723627335139,
+        "depth_symmetry": 0.8981288981288982,
+        "formation_quality": 0.7641723627335139
+      },
+      {
+        "left_valley": {
+          "x": "192",
+          "y": "432",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "216",
+          "y": "511",
+          "index": "140"
+        },
+        "neckline": {
+          "x": "212",
+          "y": "571",
+          "index": "109"
+        },
+        "pattern_width": "24",
+        "pattern_height": "139",
+        "price_target": "710",
+        "confidence": 0.7399667741345085,
+        "depth_symmetry": 0.8454011741682974,
+        "formation_quality": 0.7399667741345085
+      },
+      {
+        "left_valley": {
+          "x": "192",
+          "y": "432",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "222",
+          "y": "519",
+          "index": "156"
+        },
+        "neckline": {
+          "x": "212",
+          "y": "571",
+          "index": "109"
+        },
+        "pattern_width": "30",
+        "pattern_height": "139",
+        "price_target": "710",
+        "confidence": 0.7377677049112156,
+        "depth_symmetry": 0.8323699421965318,
+        "formation_quality": 0.7377677049112156
+      },
+      {
+        "left_valley": {
+          "x": "202",
+          "y": "418",
+          "index": "65"
+        },
+        "right_valley": {
+          "x": "222",
+          "y": "519",
+          "index": "156"
+        },
+        "neckline": {
+          "x": "212",
+          "y": "571",
+          "index": "109"
+        },
+        "pattern_width": "20",
+        "pattern_height": "153",
+        "price_target": "724",
+        "confidence": 0.7157693906078808,
+        "depth_symmetry": 0.8053949903660886,
+        "formation_quality": 0.7157693906078808
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        672,
+        241,
+        3
+      ],
+      "data_points": 165
+    }
+  },
+  {
+    "success": true,
+    "filename": "RBLX_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "97",
+          "y": "462",
+          "index": "2"
+        },
+        "right_valley": {
+          "x": "111",
+          "y": "462",
+          "index": "42"
+        },
+        "neckline": {
+          "x": "109",
+          "y": "504",
+          "index": "37"
+        },
+        "pattern_width": "14",
+        "pattern_height": "42",
+        "price_target": "546",
+        "confidence": 0.669025641025641,
+        "depth_symmetry": 1.0,
+        "formation_quality": 0.669025641025641
+      },
+      {
+        "left_valley": {
+          "x": "97",
+          "y": "462",
+          "index": "2"
+        },
+        "right_valley": {
+          "x": "117",
+          "y": "473",
+          "index": "60"
+        },
+        "neckline": {
+          "x": "109",
+          "y": "504",
+          "index": "37"
+        },
+        "pattern_width": "20",
+        "pattern_height": "42",
+        "price_target": "546",
+        "confidence": 0.7298372944884572,
+        "depth_symmetry": 0.9767441860465116,
+        "formation_quality": 0.7298372944884572
+      },
+      {
+        "left_valley": {
+          "x": "97",
+          "y": "462",
+          "index": "2"
+        },
+        "right_valley": {
+          "x": "121",
+          "y": "455",
+          "index": "79"
+        },
+        "neckline": {
+          "x": "109",
+          "y": "504",
+          "index": "37"
+        },
+        "pattern_width": "24",
+        "pattern_height": "49",
+        "price_target": "553",
+        "confidence": 0.8127884496455925,
+        "depth_symmetry": 0.9848484848484849,
+        "formation_quality": 0.8127884496455925
+      },
+      {
+        "left_valley": {
+          "x": "97",
+          "y": "462",
+          "index": "2"
+        },
+        "right_valley": {
+          "x": "127",
+          "y": "466",
+          "index": "101"
+        },
+        "neckline": {
+          "x": "109",
+          "y": "504",
+          "index": "37"
+        },
+        "pattern_width": "30",
+        "pattern_height": "42",
+        "price_target": "546",
+        "confidence": 0.85790595670424,
+        "depth_symmetry": 0.9914163090128756,
+        "formation_quality": 0.85790595670424
+      },
+      {
+        "left_valley": {
+          "x": "97",
+          "y": "462",
+          "index": "2"
+        },
+        "right_valley": {
+          "x": "135",
+          "y": "486",
+          "index": "124"
+        },
+        "neckline": {
+          "x": "129",
+          "y": "509",
+          "index": "107"
+        },
+        "pattern_width": "38",
+        "pattern_height": "47",
+        "price_target": "556",
+        "confidence": 0.8561597058050958,
+        "depth_symmetry": 0.9506172839506173,
+        "formation_quality": 0.8561597058050958
+      },
+      {
+        "left_valley": {
+          "x": "105",
+          "y": "449",
+          "index": "25"
+        },
+        "right_valley": {
+          "x": "121",
+          "y": "455",
+          "index": "79"
+        },
+        "neckline": {
+          "x": "109",
+          "y": "504",
+          "index": "37"
+        },
+        "pattern_width": "16",
+        "pattern_height": "55",
+        "price_target": "559",
+        "confidence": 0.7255744255744255,
+        "depth_symmetry": 0.9868131868131869,
+        "formation_quality": 0.7255744255744255
+      },
+      {
+        "left_valley": {
+          "x": "105",
+          "y": "449",
+          "index": "25"
+        },
+        "right_valley": {
+          "x": "127",
+          "y": "466",
+          "index": "101"
+        },
+        "neckline": {
+          "x": "109",
+          "y": "504",
+          "index": "37"
+        },
+        "pattern_width": "22",
+        "pattern_height": "55",
+        "price_target": "559",
+        "confidence": 0.8009904258831297,
+        "depth_symmetry": 0.9635193133047211,
+        "formation_quality": 0.8009904258831297
+      },
+      {
+        "left_valley": {
+          "x": "105",
+          "y": "449",
+          "index": "25"
+        },
+        "right_valley": {
+          "x": "135",
+          "y": "486",
+          "index": "124"
+        },
+        "neckline": {
+          "x": "129",
+          "y": "509",
+          "index": "107"
+        },
+        "pattern_width": "30",
+        "pattern_height": "60",
+        "price_target": "569",
+        "confidence": 0.8119341563786009,
+        "depth_symmetry": 0.9238683127572016,
+        "formation_quality": 0.8119341563786009
+      },
+      {
+        "left_valley": {
+          "x": "111",
+          "y": "462",
+          "index": "42"
+        },
+        "right_valley": {
+          "x": "127",
+          "y": "466",
+          "index": "101"
+        },
+        "neckline": {
+          "x": "117",
+          "y": "498",
+          "index": "62"
+        },
+        "pattern_width": "16",
+        "pattern_height": "36",
+        "price_target": "534",
+        "confidence": 0.6730756758739591,
+        "depth_symmetry": 0.9914163090128756,
+        "formation_quality": 0.6730756758739591
+      },
+      {
+        "left_valley": {
+          "x": "111",
+          "y": "462",
+          "index": "42"
+        },
+        "right_valley": {
+          "x": "135",
+          "y": "486",
+          "index": "124"
+        },
+        "neckline": {
+          "x": "129",
+          "y": "509",
+          "index": "107"
+        },
+        "pattern_width": "24",
+        "pattern_height": "47",
+        "price_target": "556",
+        "confidence": 0.7866801640702349,
+        "depth_symmetry": 0.9506172839506173,
+        "formation_quality": 0.7866801640702349
+      },
+      {
+        "left_valley": {
+          "x": "117",
+          "y": "473",
+          "index": "60"
+        },
+        "right_valley": {
+          "x": "135",
+          "y": "486",
+          "index": "124"
+        },
+        "neckline": {
+          "x": "129",
+          "y": "509",
+          "index": "107"
+        },
+        "pattern_width": "18",
+        "pattern_height": "36",
+        "price_target": "545",
+        "confidence": 0.6861639759417537,
+        "depth_symmetry": 0.9732510288065843,
+        "formation_quality": 0.6861639759417537
+      },
+      {
+        "left_valley": {
+          "x": "121",
+          "y": "455",
+          "index": "79"
+        },
+        "right_valley": {
+          "x": "135",
+          "y": "486",
+          "index": "124"
+        },
+        "neckline": {
+          "x": "129",
+          "y": "509",
+          "index": "107"
+        },
+        "pattern_width": "14",
+        "pattern_height": "54",
+        "price_target": "563",
+        "confidence": 0.668494460272238,
+        "depth_symmetry": 0.9362139917695473,
+        "formation_quality": 0.668494460272238
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        631,
+        272,
+        3
+      ],
+      "data_points": 130
+    }
+  },
+  {
+    "success": true,
+    "filename": "SPOT_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "125",
+          "y": "472",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "143",
+          "y": "487",
+          "index": "66"
+        },
+        "neckline": {
+          "x": "133",
+          "y": "558",
+          "index": "36"
+        },
+        "pattern_width": "18",
+        "pattern_height": "86",
+        "price_target": "644",
+        "confidence": 0.8055298218805215,
+        "depth_symmetry": 0.9691991786447639,
+        "formation_quality": 0.8055298218805215
+      },
+      {
+        "left_valley": {
+          "x": "125",
+          "y": "472",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "146",
+          "y": "508",
+          "index": "79"
+        },
+        "neckline": {
+          "x": "133",
+          "y": "558",
+          "index": "36"
+        },
+        "pattern_width": "21",
+        "pattern_height": "86",
+        "price_target": "644",
+        "confidence": 0.788985533785021,
+        "depth_symmetry": 0.9291338582677166,
+        "formation_quality": 0.788985533785021
+      },
+      {
+        "left_valley": {
+          "x": "125",
+          "y": "472",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "152",
+          "y": "521",
+          "index": "99"
+        },
+        "neckline": {
+          "x": "133",
+          "y": "558",
+          "index": "36"
+        },
+        "pattern_width": "27",
+        "pattern_height": "86",
+        "price_target": "644",
+        "confidence": 0.7843703968218542,
+        "depth_symmetry": 0.9059500959692899,
+        "formation_quality": 0.7843703968218542
+      },
+      {
+        "left_valley": {
+          "x": "125",
+          "y": "472",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "157",
+          "y": "531",
+          "index": "118"
+        },
+        "neckline": {
+          "x": "133",
+          "y": "558",
+          "index": "36"
+        },
+        "pattern_width": "32",
+        "pattern_height": "86",
+        "price_target": "644",
+        "confidence": 0.7816537467700259,
+        "depth_symmetry": 0.8888888888888888,
+        "formation_quality": 0.7816537467700259
+      },
+      {
+        "left_valley": {
+          "x": "129",
+          "y": "489",
+          "index": "25"
+        },
+        "right_valley": {
+          "x": "143",
+          "y": "487",
+          "index": "66"
+        },
+        "neckline": {
+          "x": "133",
+          "y": "558",
+          "index": "36"
+        },
+        "pattern_width": "14",
+        "pattern_height": "71",
+        "price_target": "629",
+        "confidence": 0.7581571910518456,
+        "depth_symmetry": 0.9959100204498977,
+        "formation_quality": 0.7581571910518456
+      },
+      {
+        "left_valley": {
+          "x": "129",
+          "y": "489",
+          "index": "25"
+        },
+        "right_valley": {
+          "x": "146",
+          "y": "508",
+          "index": "79"
+        },
+        "neckline": {
+          "x": "133",
+          "y": "558",
+          "index": "36"
+        },
+        "pattern_width": "17",
+        "pattern_height": "69",
+        "price_target": "627",
+        "confidence": 0.7897272163384906,
+        "depth_symmetry": 0.9625984251968503,
+        "formation_quality": 0.7897272163384906
+      },
+      {
+        "left_valley": {
+          "x": "129",
+          "y": "489",
+          "index": "25"
+        },
+        "right_valley": {
+          "x": "152",
+          "y": "521",
+          "index": "99"
+        },
+        "neckline": {
+          "x": "133",
+          "y": "558",
+          "index": "36"
+        },
+        "pattern_width": "23",
+        "pattern_height": "69",
+        "price_target": "627",
+        "confidence": 0.8026231605886116,
+        "depth_symmetry": 0.9385796545105566,
+        "formation_quality": 0.8026231605886116
+      },
+      {
+        "left_valley": {
+          "x": "129",
+          "y": "489",
+          "index": "25"
+        },
+        "right_valley": {
+          "x": "157",
+          "y": "531",
+          "index": "118"
+        },
+        "neckline": {
+          "x": "133",
+          "y": "558",
+          "index": "36"
+        },
+        "pattern_width": "28",
+        "pattern_height": "69",
+        "price_target": "627",
+        "confidence": 0.8010316875460575,
+        "depth_symmetry": 0.9209039548022598,
+        "formation_quality": 0.8010316875460575
+      },
+      {
+        "left_valley": {
+          "x": "134",
+          "y": "506",
+          "index": "38"
+        },
+        "right_valley": {
+          "x": "152",
+          "y": "521",
+          "index": "99"
+        },
+        "neckline": {
+          "x": "137",
+          "y": "557",
+          "index": "48"
+        },
+        "pattern_width": "18",
+        "pattern_height": "51",
+        "price_target": "608",
+        "confidence": 0.7429954983665189,
+        "depth_symmetry": 0.9712092130518234,
+        "formation_quality": 0.7429954983665189
+      },
+      {
+        "left_valley": {
+          "x": "134",
+          "y": "506",
+          "index": "38"
+        },
+        "right_valley": {
+          "x": "157",
+          "y": "531",
+          "index": "118"
+        },
+        "neckline": {
+          "x": "137",
+          "y": "557",
+          "index": "48"
+        },
+        "pattern_width": "23",
+        "pattern_height": "51",
+        "price_target": "608",
+        "confidence": 0.8053478721541469,
+        "depth_symmetry": 0.9529190207156308,
+        "formation_quality": 0.8053478721541469
+      },
+      {
+        "left_valley": {
+          "x": "137",
+          "y": "497",
+          "index": "50"
+        },
+        "right_valley": {
+          "x": "152",
+          "y": "521",
+          "index": "99"
+        },
+        "neckline": {
+          "x": "151",
+          "y": "549",
+          "index": "94"
+        },
+        "pattern_width": "15",
+        "pattern_height": "52",
+        "price_target": "601",
+        "confidence": 0.6945232017069675,
+        "depth_symmetry": 0.9539347408829175,
+        "formation_quality": 0.6945232017069675
+      },
+      {
+        "left_valley": {
+          "x": "137",
+          "y": "497",
+          "index": "50"
+        },
+        "right_valley": {
+          "x": "157",
+          "y": "531",
+          "index": "118"
+        },
+        "neckline": {
+          "x": "155",
+          "y": "557",
+          "index": "114"
+        },
+        "pattern_width": "20",
+        "pattern_height": "60",
+        "price_target": "617",
+        "confidence": 0.7916408480651237,
+        "depth_symmetry": 0.935969868173258,
+        "formation_quality": 0.7916408480651237
+      },
+      {
+        "left_valley": {
+          "x": "143",
+          "y": "487",
+          "index": "66"
+        },
+        "right_valley": {
+          "x": "157",
+          "y": "531",
+          "index": "118"
+        },
+        "neckline": {
+          "x": "155",
+          "y": "557",
+          "index": "114"
+        },
+        "pattern_width": "14",
+        "pattern_height": "70",
+        "price_target": "627",
+        "confidence": 0.7156655124233036,
+        "depth_symmetry": 0.9171374764595104,
+        "formation_quality": 0.7156655124233036
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        708,
+        298,
+        3
+      ],
+      "data_points": 124
+    }
+  },
+  {
+    "success": true,
+    "filename": "XOM_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "101",
+          "y": "452",
+          "index": "8"
+        },
+        "right_valley": {
+          "x": "105",
+          "y": "432",
+          "index": "15"
+        },
+        "neckline": {
+          "x": "102",
+          "y": "476",
+          "index": "9"
+        },
+        "pattern_width": "4",
+        "pattern_height": "44",
+        "price_target": "520",
+        "confidence": 0.625914383706652,
+        "depth_symmetry": 0.9557522123893806,
+        "formation_quality": 0.625914383706652
+      },
+      {
+        "left_valley": {
+          "x": "101",
+          "y": "452",
+          "index": "8"
+        },
+        "right_valley": {
+          "x": "105",
+          "y": "456",
+          "index": "18"
+        },
+        "neckline": {
+          "x": "102",
+          "y": "476",
+          "index": "9"
+        },
+        "pattern_width": "4",
+        "pattern_height": "24",
+        "price_target": "500",
+        "confidence": 0.5880701754385965,
+        "depth_symmetry": 0.9912280701754386,
+        "formation_quality": 0.5880701754385965
+      },
+      {
+        "left_valley": {
+          "x": "101",
+          "y": "452",
+          "index": "8"
+        },
+        "right_valley": {
+          "x": "107",
+          "y": "452",
+          "index": "21"
+        },
+        "neckline": {
+          "x": "102",
+          "y": "476",
+          "index": "9"
+        },
+        "pattern_width": "6",
+        "pattern_height": "24",
+        "price_target": "500",
+        "confidence": 0.6386842105263159,
+        "depth_symmetry": 1.0,
+        "formation_quality": 0.6386842105263159
+      },
+      {
+        "left_valley": {
+          "x": "101",
+          "y": "452",
+          "index": "8"
+        },
+        "right_valley": {
+          "x": "107",
+          "y": "454",
+          "index": "24"
+        },
+        "neckline": {
+          "x": "102",
+          "y": "476",
+          "index": "9"
+        },
+        "pattern_width": "6",
+        "pattern_height": "24",
+        "price_target": "500",
+        "confidence": 0.6364815673545097,
+        "depth_symmetry": 0.9955947136563876,
+        "formation_quality": 0.6364815673545097
+      },
+      {
+        "left_valley": {
+          "x": "103",
+          "y": "432",
+          "index": "11"
+        },
+        "right_valley": {
+          "x": "107",
+          "y": "452",
+          "index": "21"
+        },
+        "neckline": {
+          "x": "106",
+          "y": "476",
+          "index": "19"
+        },
+        "pattern_width": "4",
+        "pattern_height": "44",
+        "price_target": "520",
+        "confidence": 0.625914383706652,
+        "depth_symmetry": 0.9557522123893806,
+        "formation_quality": 0.625914383706652
+      },
+      {
+        "left_valley": {
+          "x": "103",
+          "y": "432",
+          "index": "11"
+        },
+        "right_valley": {
+          "x": "107",
+          "y": "454",
+          "index": "24"
+        },
+        "neckline": {
+          "x": "106",
+          "y": "476",
+          "index": "19"
+        },
+        "pattern_width": "4",
+        "pattern_height": "44",
+        "price_target": "520",
+        "confidence": 0.6238092026220938,
+        "depth_symmetry": 0.9515418502202643,
+        "formation_quality": 0.6238092026220938
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        635,
+        216,
+        3
+      ],
+      "data_points": 38
+    }
+  },
+  {
+    "success": true,
+    "filename": "ZS_w_formation.png",
+    "phase": 1,
+    "patterns": [
+      {
+        "left_valley": {
+          "x": "104",
+          "y": "328",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "124",
+          "y": "397",
+          "index": "85"
+        },
+        "neckline": {
+          "x": "118",
+          "y": "452",
+          "index": "69"
+        },
+        "pattern_width": "20",
+        "pattern_height": "124",
+        "price_target": "576",
+        "confidence": 0.7292272690338831,
+        "depth_symmetry": 0.8261964735516373,
+        "formation_quality": 0.7292272690338831
+      },
+      {
+        "left_valley": {
+          "x": "104",
+          "y": "328",
+          "index": "6"
+        },
+        "right_valley": {
+          "x": "140",
+          "y": "401",
+          "index": "139"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "36",
+        "pattern_height": "139",
+        "price_target": "606",
+        "confidence": 0.7348768366852653,
+        "depth_symmetry": 0.8179551122194514,
+        "formation_quality": 0.7348768366852653
+      },
+      {
+        "left_valley": {
+          "x": "107",
+          "y": "349",
+          "index": "21"
+        },
+        "right_valley": {
+          "x": "124",
+          "y": "397",
+          "index": "85"
+        },
+        "neckline": {
+          "x": "118",
+          "y": "452",
+          "index": "69"
+        },
+        "pattern_width": "17",
+        "pattern_height": "103",
+        "price_target": "555",
+        "confidence": 0.7560514538651536,
+        "depth_symmetry": 0.8790931989924433,
+        "formation_quality": 0.7560514538651536
+      },
+      {
+        "left_valley": {
+          "x": "107",
+          "y": "349",
+          "index": "21"
+        },
+        "right_valley": {
+          "x": "131",
+          "y": "417",
+          "index": "108"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "24",
+        "pattern_height": "118",
+        "price_target": "585",
+        "confidence": 0.7388042108685933,
+        "depth_symmetry": 0.8369304556354916,
+        "formation_quality": 0.7388042108685933
+      },
+      {
+        "left_valley": {
+          "x": "107",
+          "y": "349",
+          "index": "21"
+        },
+        "right_valley": {
+          "x": "136",
+          "y": "426",
+          "index": "124"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "29",
+        "pattern_height": "118",
+        "price_target": "585",
+        "confidence": 0.7342006843319805,
+        "depth_symmetry": 0.8192488262910798,
+        "formation_quality": 0.7342006843319805
+      },
+      {
+        "left_valley": {
+          "x": "107",
+          "y": "349",
+          "index": "21"
+        },
+        "right_valley": {
+          "x": "140",
+          "y": "401",
+          "index": "139"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "33",
+        "pattern_height": "118",
+        "price_target": "585",
+        "confidence": 0.7631281964580074,
+        "depth_symmetry": 0.8703241895261845,
+        "formation_quality": 0.7631281964580074
+      },
+      {
+        "left_valley": {
+          "x": "112",
+          "y": "365",
+          "index": "39"
+        },
+        "right_valley": {
+          "x": "131",
+          "y": "417",
+          "index": "108"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "19",
+        "pattern_height": "102",
+        "price_target": "569",
+        "confidence": 0.7562773310763155,
+        "depth_symmetry": 0.8752997601918465,
+        "formation_quality": 0.7562773310763155
+      },
+      {
+        "left_valley": {
+          "x": "112",
+          "y": "365",
+          "index": "39"
+        },
+        "right_valley": {
+          "x": "136",
+          "y": "426",
+          "index": "124"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "24",
+        "pattern_height": "102",
+        "price_target": "569",
+        "confidence": 0.7519331676332505,
+        "depth_symmetry": 0.8568075117370892,
+        "formation_quality": 0.7519331676332505
+      },
+      {
+        "left_valley": {
+          "x": "112",
+          "y": "365",
+          "index": "39"
+        },
+        "right_valley": {
+          "x": "140",
+          "y": "401",
+          "index": "139"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "28",
+        "pattern_height": "102",
+        "price_target": "569",
+        "confidence": 0.7825631998435284,
+        "depth_symmetry": 0.9102244389027432,
+        "formation_quality": 0.7825631998435284
+      },
+      {
+        "left_valley": {
+          "x": "118",
+          "y": "397",
+          "index": "67"
+        },
+        "right_valley": {
+          "x": "136",
+          "y": "426",
+          "index": "124"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "18",
+        "pattern_height": "70",
+        "price_target": "537",
+        "confidence": 0.7387355505582515,
+        "depth_symmetry": 0.931924882629108,
+        "formation_quality": 0.7387355505582515
+      },
+      {
+        "left_valley": {
+          "x": "118",
+          "y": "397",
+          "index": "67"
+        },
+        "right_valley": {
+          "x": "140",
+          "y": "401",
+          "index": "139"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "22",
+        "pattern_height": "70",
+        "price_target": "537",
+        "confidence": 0.8264410402565016,
+        "depth_symmetry": 0.9900249376558603,
+        "formation_quality": 0.8264410402565016
+      },
+      {
+        "left_valley": {
+          "x": "124",
+          "y": "397",
+          "index": "85"
+        },
+        "right_valley": {
+          "x": "140",
+          "y": "401",
+          "index": "139"
+        },
+        "neckline": {
+          "x": "130",
+          "y": "467",
+          "index": "102"
+        },
+        "pattern_width": "16",
+        "pattern_height": "70",
+        "price_target": "537",
+        "confidence": 0.737477454822328,
+        "depth_symmetry": 0.9900249376558603,
+        "formation_quality": 0.737477454822328
+      }
+    ],
+    "image_metadata": {
+      "size": [
+        547,
+        468,
+        3
+      ],
+      "data_points": 153
+    }
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "features": [
+    "trough_sim",
+    "p1_to_l1_t",
+    "rsi_l2",
+    "regime_volatility",
+    "regime_volume",
+    "regime_strength",
+    "volume_accumulation_ratio",
+    "volume_trend_slope",
+    "pattern_trough_consistency",
+    "pattern_clarity",
+    "pattern_amplitude_balance",
+    "trend_context"
+  ],
+  "target": "y_reachtarget",
+  "n_samples": 31,
+  "class_distribution": {
+    "negative": 10,
+    "positive": 21
+  },
+  "cv_auc": 0.5,
+  "feature_importance": {
+    "trough_sim": 0.0,
+    "p1_to_l1_t": 0.0,
+    "rsi_l2": 0.0,
+    "regime_volatility": 0.0,
+    "regime_volume": 0.0,
+    "regime_strength": 0.0,
+    "volume_accumulation_ratio": 0.0,
+    "volume_trend_slope": 0.0,
+    "pattern_trough_consistency": 0.0,
+    "pattern_clarity": 0.0,
+    "pattern_amplitude_balance": 0.0,
+    "trend_context": 0.0
+  }
+}

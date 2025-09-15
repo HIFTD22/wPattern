@@ -1,0 +1,2632 @@
+{
+  "scan_timestamp": "2025-09-14T14:19:43.523374",
+  "total_stocks_scanned": 55,
+  "patterns_found": 67,
+  "high_confidence_patterns": 64,
+  "candidates": [
+    {
+      "left_valley": {
+        "x": 33,
+        "y": 211.64999389648438,
+        "index": "33"
+      },
+      "right_valley": {
+        "x": 46,
+        "y": 221.9499969482422,
+        "index": "46"
+      },
+      "neckline": {
+        "x": 43,
+        "y": 231.49000549316406,
+        "index": "43"
+      },
+      "left_peak": {
+        "x": 31,
+        "y": 234.11000061035156,
+        "index": "31"
+      },
+      "right_peak": {
+        "x": 43,
+        "y": 231.49000549316406,
+        "index": "43"
+      },
+      "pattern_width": 13,
+      "pattern_height": 19.840011596679688,
+      "price_target": 251.33001708984375,
+      "confidence": 0.6671207968071583,
+      "depth_symmetry": 0.9535931372228866,
+      "current_price": 228.14999389648438,
+      "left_valley_price": 211.64999389648438,
+      "right_valley_price": 221.9499969482422,
+      "neckline_price": 231.49000549316406,
+      "target_price": 251.33001708984375,
+      "upside_potential": 10.159992905314981,
+      "risk_reward_ratio": 1.015999290531498,
+      "symbol": "AMZN",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 33,
+        "y": 211.64999389648438,
+        "index": "33"
+      },
+      "right_valley": {
+        "x": 53,
+        "y": 225.33999633789062,
+        "index": "53"
+      },
+      "neckline": {
+        "x": 51,
+        "y": 231.60000610351562,
+        "index": "51"
+      },
+      "left_peak": {
+        "x": 31,
+        "y": 234.11000061035156,
+        "index": "31"
+      },
+      "right_peak": {
+        "x": 51,
+        "y": 231.60000610351562,
+        "index": "51"
+      },
+      "pattern_width": 20,
+      "pattern_height": 19.95001220703125,
+      "price_target": 251.55001831054688,
+      "confidence": 0.7629388733485322,
+      "depth_symmetry": 0.9392473477239323,
+      "current_price": 228.14999389648438,
+      "left_valley_price": 211.64999389648438,
+      "right_valley_price": 225.33999633789062,
+      "neckline_price": 231.60000610351562,
+      "target_price": 251.55001831054688,
+      "upside_potential": 10.256421231674237,
+      "risk_reward_ratio": 1.0256421231674238,
+      "symbol": "AMZN",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 46,
+        "y": 174.97012329101562,
+        "index": "46"
+      },
+      "right_valley": {
+        "x": 56,
+        "y": 167.01058959960938,
+        "index": "56"
+      },
+      "neckline": {
+        "x": 49,
+        "y": 181.75975036621094,
+        "index": "49"
+      },
+      "left_peak": {
+        "x": 39,
+        "y": 183.14967346191406,
+        "index": "39"
+      },
+      "right_peak": {
+        "x": 49,
+        "y": 181.75975036621094,
+        "index": "49"
+      },
+      "pattern_width": 10,
+      "pattern_height": 14.749160766601562,
+      "price_target": 196.5089111328125,
+      "confidence": 0.6164219667392562,
+      "depth_symmetry": 0.9545091839584081,
+      "current_price": 177.82000732421875,
+      "left_valley_price": 174.97012329101562,
+      "right_valley_price": 167.01058959960938,
+      "neckline_price": 181.75975036621094,
+      "target_price": 196.5089111328125,
+      "upside_potential": 10.510011831524853,
+      "risk_reward_ratio": 1.0510011831524853,
+      "symbol": "NVDA",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 11,
+        "y": 713.5700073242188,
+        "index": "11"
+      },
+      "right_valley": {
+        "x": 21,
+        "y": 701.4099731445312,
+        "index": "21"
+      },
+      "neckline": {
+        "x": 15,
+        "y": 732.780029296875,
+        "index": "15"
+      },
+      "left_peak": {
+        "x": 9,
+        "y": 738.0900268554688,
+        "index": "9"
+      },
+      "right_peak": {
+        "x": 15,
+        "y": 732.780029296875,
+        "index": "15"
+      },
+      "pattern_width": 10,
+      "pattern_height": 31.37005615234375,
+      "price_target": 764.1500854492188,
+      "confidence": 0.6751475658379216,
+      "depth_symmetry": 0.9829588771180479,
+      "current_price": 755.5900268554688,
+      "left_valley_price": 713.5700073242188,
+      "right_valley_price": 701.4099731445312,
+      "neckline_price": 732.780029296875,
+      "target_price": 764.1500854492188,
+      "upside_potential": 1.1328972444718874,
+      "risk_reward_ratio": 0.11328972444718874,
+      "symbol": "META",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 11,
+        "y": 713.5700073242188,
+        "index": "11"
+      },
+      "right_valley": {
+        "x": 30,
+        "y": 695.2100219726562,
+        "index": "30"
+      },
+      "neckline": {
+        "x": 15,
+        "y": 732.780029296875,
+        "index": "15"
+      },
+      "left_peak": {
+        "x": 9,
+        "y": 738.0900268554688,
+        "index": "9"
+      },
+      "right_peak": {
+        "x": 15,
+        "y": 732.780029296875,
+        "index": "15"
+      },
+      "pattern_width": 19,
+      "pattern_height": 37.57000732421875,
+      "price_target": 770.3500366210938,
+      "confidence": 0.8377073750219839,
+      "depth_symmetry": 0.9742702395516738,
+      "current_price": 755.5900268554688,
+      "left_valley_price": 713.5700073242188,
+      "right_valley_price": 695.2100219726562,
+      "neckline_price": 732.780029296875,
+      "target_price": 770.3500366210938,
+      "upside_potential": 1.9534415808863412,
+      "risk_reward_ratio": 0.19534415808863412,
+      "symbol": "META",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 21,
+        "y": 701.4099731445312,
+        "index": "21"
+      },
+      "right_valley": {
+        "x": 30,
+        "y": 695.2100219726562,
+        "index": "30"
+      },
+      "neckline": {
+        "x": 28,
+        "y": 717.6300048828125,
+        "index": "28"
+      },
+      "left_peak": {
+        "x": 15,
+        "y": 732.780029296875,
+        "index": "15"
+      },
+      "right_peak": {
+        "x": 28,
+        "y": 717.6300048828125,
+        "index": "28"
+      },
+      "pattern_width": 9,
+      "pattern_height": 22.41998291015625,
+      "price_target": 740.0499877929688,
+      "confidence": 0.6333585354376134,
+      "depth_symmetry": 0.9911607313707279,
+      "current_price": 755.5900268554688,
+      "left_valley_price": 701.4099731445312,
+      "right_valley_price": 695.2100219726562,
+      "neckline_price": 717.6300048828125,
+      "target_price": 740.0499877929688,
+      "upside_potential": -2.0566760425852655,
+      "risk_reward_ratio": -0.20566760425852654,
+      "symbol": "META",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 19,
+        "y": 470.1300048828125,
+        "index": "19"
+      },
+      "right_valley": {
+        "x": 33,
+        "y": 459.1099853515625,
+        "index": "33"
+      },
+      "neckline": {
+        "x": 27,
+        "y": 484.07000732421875,
+        "index": "27"
+      },
+      "left_peak": {
+        "x": 5,
+        "y": 493.4800109863281,
+        "index": "5"
+      },
+      "right_peak": {
+        "x": 27,
+        "y": 484.07000732421875,
+        "index": "27"
+      },
+      "pattern_width": 14,
+      "pattern_height": 24.96002197265625,
+      "price_target": 509.030029296875,
+      "confidence": 0.7134535308692308,
+      "depth_symmetry": 0.9765596336826089,
+      "current_price": 493.739990234375,
+      "left_valley_price": 470.1300048828125,
+      "right_valley_price": 459.1099853515625,
+      "neckline_price": 484.07000732421875,
+      "target_price": 509.030029296875,
+      "upside_potential": 3.0967795529873774,
+      "risk_reward_ratio": 0.30967795529873776,
+      "symbol": "BRK-B",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 19,
+        "y": 346.41046142578125,
+        "index": "19"
+      },
+      "right_valley": {
+        "x": 36,
+        "y": 331.5066833496094,
+        "index": "36"
+      },
+      "neckline": {
+        "x": 27,
+        "y": 356.4128723144531,
+        "index": "27"
+      },
+      "left_peak": {
+        "x": 12,
+        "y": 358.2296447753906,
+        "index": "12"
+      },
+      "right_peak": {
+        "x": 27,
+        "y": 356.4128723144531,
+        "index": "27"
+      },
+      "pattern_width": 17,
+      "pattern_height": 24.90618896484375,
+      "price_target": 381.3190612792969,
+      "confidence": 0.7516178849034196,
+      "depth_symmetry": 0.9569765358273828,
+      "current_price": 339.42999267578125,
+      "left_valley_price": 346.41046142578125,
+      "right_valley_price": 331.5066833496094,
+      "neckline_price": 356.4128723144531,
+      "target_price": 381.3190612792969,
+      "upside_potential": 12.341003891051983,
+      "risk_reward_ratio": 1.2341003891051983,
+      "symbol": "V",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 19,
+        "y": 346.41046142578125,
+        "index": "19"
+      },
+      "right_valley": {
+        "x": 59,
+        "y": 338.1199951171875,
+        "index": "59"
+      },
+      "neckline": {
+        "x": 27,
+        "y": 356.4128723144531,
+        "index": "27"
+      },
+      "left_peak": {
+        "x": 12,
+        "y": 358.2296447753906,
+        "index": "12"
+      },
+      "right_peak": {
+        "x": 27,
+        "y": 356.4128723144531,
+        "index": "27"
+      },
+      "pattern_width": 40,
+      "pattern_height": 18.292877197265625,
+      "price_target": 374.70574951171875,
+      "confidence": 0.9880337529725989,
+      "depth_symmetry": 0.976067505945198,
+      "current_price": 339.42999267578125,
+      "left_valley_price": 346.41046142578125,
+      "right_valley_price": 338.1199951171875,
+      "neckline_price": 356.4128723144531,
+      "target_price": 374.70574951171875,
+      "upside_potential": 10.39264578767864,
+      "risk_reward_ratio": 1.039264578767864,
+      "symbol": "V",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 36,
+        "y": 331.5066833496094,
+        "index": "36"
+      },
+      "right_valley": {
+        "x": 59,
+        "y": 338.1199951171875,
+        "index": "59"
+      },
+      "neckline": {
+        "x": 52,
+        "y": 351.7799987792969,
+        "index": "52"
+      },
+      "left_peak": {
+        "x": 27,
+        "y": 356.4128723144531,
+        "index": "27"
+      },
+      "right_peak": {
+        "x": 52,
+        "y": 351.7799987792969,
+        "index": "52"
+      },
+      "pattern_width": 23,
+      "pattern_height": 20.2733154296875,
+      "price_target": 372.0533142089844,
+      "confidence": 0.8292924710760972,
+      "depth_symmetry": 0.9804409326183563,
+      "current_price": 339.42999267578125,
+      "left_valley_price": 331.5066833496094,
+      "right_valley_price": 338.1199951171875,
+      "neckline_price": 351.7799987792969,
+      "target_price": 372.0533142089844,
+      "upside_potential": 9.611207682629408,
+      "risk_reward_ratio": 0.9611207682629408,
+      "symbol": "V",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 19,
+        "y": 151.64295959472656,
+        "index": "19"
+      },
+      "right_valley": {
+        "x": 31,
+        "y": 150.47000122070312,
+        "index": "31"
+      },
+      "neckline": {
+        "x": 26,
+        "y": 158.80999755859375,
+        "index": "26"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 160.12496948242188,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 26,
+        "y": 158.80999755859375,
+        "index": "26"
+      },
+      "pattern_width": 12,
+      "pattern_height": 8.339996337890625,
+      "price_target": 167.14999389648438,
+      "confidence": 0.6884432401853168,
+      "depth_symmetry": 0.9922649994621694,
+      "current_price": 157.89999389648438,
+      "left_valley_price": 151.64295959472656,
+      "right_valley_price": 150.47000122070312,
+      "neckline_price": 158.80999755859375,
+      "target_price": 167.14999389648438,
+      "upside_potential": 5.858138288506894,
+      "risk_reward_ratio": 0.5858138288506894,
+      "symbol": "PG",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 19,
+        "y": 151.64295959472656,
+        "index": "19"
+      },
+      "right_valley": {
+        "x": 41,
+        "y": 153.74000549316406,
+        "index": "41"
+      },
+      "neckline": {
+        "x": 26,
+        "y": 158.80999755859375,
+        "index": "26"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 160.12496948242188,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 26,
+        "y": 158.80999755859375,
+        "index": "26"
+      },
+      "pattern_width": 22,
+      "pattern_height": 7.1670379638671875,
+      "price_target": 165.97703552246094,
+      "confidence": 0.7694741703005141,
+      "depth_symmetry": 0.9863597904025654,
+      "current_price": 157.89999389648438,
+      "left_valley_price": 151.64295959472656,
+      "right_valley_price": 153.74000549316406,
+      "neckline_price": 158.80999755859375,
+      "target_price": 165.97703552246094,
+      "upside_potential": 5.1152893845402465,
+      "risk_reward_ratio": 0.5115289384540247,
+      "symbol": "PG",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 19,
+        "y": 151.64295959472656,
+        "index": "19"
+      },
+      "right_valley": {
+        "x": 51,
+        "y": 155.64999389648438,
+        "index": "51"
+      },
+      "neckline": {
+        "x": 45,
+        "y": 159.50999450683594,
+        "index": "45"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 160.12496948242188,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 45,
+        "y": 159.50999450683594,
+        "index": "45"
+      },
+      "pattern_width": 32,
+      "pattern_height": 7.867034912109375,
+      "price_target": 167.3770294189453,
+      "confidence": 0.8089402149655001,
+      "depth_symmetry": 0.9742561229753551,
+      "current_price": 157.89999389648438,
+      "left_valley_price": 151.64295959472656,
+      "right_valley_price": 155.64999389648438,
+      "neckline_price": 159.50999450683594,
+      "target_price": 167.3770294189453,
+      "upside_potential": 6.00192266547766,
+      "risk_reward_ratio": 0.600192266547766,
+      "symbol": "PG",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 31,
+        "y": 150.47000122070312,
+        "index": "31"
+      },
+      "right_valley": {
+        "x": 41,
+        "y": 153.74000549316406,
+        "index": "41"
+      },
+      "neckline": {
+        "x": 40,
+        "y": 155.41000366210938,
+        "index": "40"
+      },
+      "left_peak": {
+        "x": 26,
+        "y": 158.80999755859375,
+        "index": "26"
+      },
+      "right_peak": {
+        "x": 40,
+        "y": 155.41000366210938,
+        "index": "40"
+      },
+      "pattern_width": 10,
+      "pattern_height": 4.94000244140625,
+      "price_target": 160.35000610351562,
+      "confidence": 0.7132683860663611,
+      "depth_symmetry": 0.978730296893307,
+      "current_price": 157.89999389648438,
+      "left_valley_price": 150.47000122070312,
+      "right_valley_price": 153.74000549316406,
+      "neckline_price": 155.41000366210938,
+      "target_price": 160.35000610351562,
+      "upside_potential": 1.5516227370074642,
+      "risk_reward_ratio": 0.15516227370074642,
+      "symbol": "PG",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 22,
+        "y": 106.77640533447266,
+        "index": "22"
+      },
+      "right_valley": {
+        "x": 38,
+        "y": 104.85429382324219,
+        "index": "38"
+      },
+      "neckline": {
+        "x": 29,
+        "y": 111.83928680419922,
+        "index": "29"
+      },
+      "left_peak": {
+        "x": 17,
+        "y": 114.36578369140625,
+        "index": "17"
+      },
+      "right_peak": {
+        "x": 29,
+        "y": 111.83928680419922,
+        "index": "29"
+      },
+      "pattern_width": 16,
+      "pattern_height": 6.984992980957031,
+      "price_target": 118.82427978515625,
+      "confidence": 0.745076727161287,
+      "depth_symmetry": 0.9819987242948521,
+      "current_price": 112.16000366210938,
+      "left_valley_price": 106.77640533447266,
+      "right_valley_price": 104.85429382324219,
+      "neckline_price": 111.83928680419922,
+      "target_price": 118.82427978515625,
+      "upside_potential": 5.941758118271393,
+      "risk_reward_ratio": 0.5941758118271393,
+      "symbol": "XOM",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 33,
+        "y": 149.3771209716797,
+        "index": "33"
+      },
+      "right_valley": {
+        "x": 44,
+        "y": 152.0,
+        "index": "44"
+      },
+      "neckline": {
+        "x": 42,
+        "y": 154.8264617919922,
+        "index": "42"
+      },
+      "left_peak": {
+        "x": 29,
+        "y": 155.30117797851562,
+        "index": "29"
+      },
+      "right_peak": {
+        "x": 42,
+        "y": 154.8264617919922,
+        "index": "42"
+      },
+      "pattern_width": 11,
+      "pattern_height": 5.4493408203125,
+      "price_target": 160.2758026123047,
+      "confidence": 0.7203766644385554,
+      "depth_symmetry": 0.9827442169189453,
+      "current_price": 157.11000061035156,
+      "left_valley_price": 149.3771209716797,
+      "right_valley_price": 152.0,
+      "neckline_price": 154.8264617919922,
+      "target_price": 160.2758026123047,
+      "upside_potential": 2.015022589048694,
+      "risk_reward_ratio": 0.2015022589048694,
+      "symbol": "CVX",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 17,
+        "y": 550.1799926757812,
+        "index": "17"
+      },
+      "right_valley": {
+        "x": 30,
+        "y": 559.1099853515625,
+        "index": "30"
+      },
+      "neckline": {
+        "x": 28,
+        "y": 568.280029296875,
+        "index": "28"
+      },
+      "left_peak": {
+        "x": 12,
+        "y": 568.4708251953125,
+        "index": "12"
+      },
+      "right_peak": {
+        "x": 28,
+        "y": 568.280029296875,
+        "index": "28"
+      },
+      "pattern_width": 13,
+      "pattern_height": 18.10003662109375,
+      "price_target": 586.3800659179688,
+      "confidence": 0.6776922283393431,
+      "depth_symmetry": 0.984028200336708,
+      "current_price": 580.4099731445312,
+      "left_valley_price": 550.1799926757812,
+      "right_valley_price": 559.1099853515625,
+      "neckline_price": 568.280029296875,
+      "target_price": 586.3800659179688,
+      "upside_potential": 1.0285992745942794,
+      "risk_reward_ratio": 0.10285992745942793,
+      "symbol": "MA",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 20,
+        "y": 45.775386810302734,
+        "index": "20"
+      },
+      "right_valley": {
+        "x": 36,
+        "y": 44.67152786254883,
+        "index": "36"
+      },
+      "neckline": {
+        "x": 27,
+        "y": 48.182003021240234,
+        "index": "27"
+      },
+      "left_peak": {
+        "x": 12,
+        "y": 48.65934753417969,
+        "index": "12"
+      },
+      "right_peak": {
+        "x": 27,
+        "y": 48.182003021240234,
+        "index": "27"
+      },
+      "pattern_width": 16,
+      "pattern_height": 3.5104751586914062,
+      "price_target": 51.69247817993164,
+      "confidence": 0.7151205306349222,
+      "depth_symmetry": 0.9758853168772031,
+      "current_price": 50.58000183105469,
+      "left_valley_price": 45.775386810302734,
+      "right_valley_price": 44.67152786254883,
+      "neckline_price": 48.182003021240234,
+      "target_price": 51.69247817993164,
+      "upside_potential": 2.199439123376868,
+      "risk_reward_ratio": 0.21994391233768681,
+      "symbol": "BAC",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 23,
+        "y": 23.84848976135254,
+        "index": "23"
+      },
+      "right_valley": {
+        "x": 31,
+        "y": 23.290000915527344,
+        "index": "31"
+      },
+      "neckline": {
+        "x": 25,
+        "y": 24.92983055114746,
+        "index": "25"
+      },
+      "left_peak": {
+        "x": 16,
+        "y": 25.34270668029785,
+        "index": "16"
+      },
+      "right_peak": {
+        "x": 25,
+        "y": 24.92983055114746,
+        "index": "25"
+      },
+      "pattern_width": 8,
+      "pattern_height": 1.6398296356201172,
+      "price_target": 26.569660186767578,
+      "confidence": 0.6946386246258447,
+      "depth_symmetry": 0.9765817940081787,
+      "current_price": 23.8700008392334,
+      "left_valley_price": 23.84848976135254,
+      "right_valley_price": 23.290000915527344,
+      "neckline_price": 24.92983055114746,
+      "target_price": 26.569660186767578,
+      "upside_potential": 11.30984186266531,
+      "risk_reward_ratio": 1.130984186266531,
+      "symbol": "PFE",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 20,
+        "y": 69.2699966430664,
+        "index": "20"
+      },
+      "right_valley": {
+        "x": 31,
+        "y": 67.88999938964844,
+        "index": "31"
+      },
+      "neckline": {
+        "x": 21,
+        "y": 70.58999633789062,
+        "index": "21"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 71.66999816894531,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 21,
+        "y": 70.58999633789062,
+        "index": "21"
+      },
+      "pattern_width": 11,
+      "pattern_height": 2.6999969482421875,
+      "price_target": 73.28999328613281,
+      "confidence": 0.7044099487536903,
+      "depth_symmetry": 0.9800779945099637,
+      "current_price": 67.01000213623047,
+      "left_valley_price": 69.2699966430664,
+      "right_valley_price": 67.88999938964844,
+      "neckline_price": 70.58999633789062,
+      "target_price": 73.28999328613281,
+      "upside_potential": 9.371722055962934,
+      "risk_reward_ratio": 0.9371722055962934,
+      "symbol": "KO",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 20,
+        "y": 69.2699966430664,
+        "index": "20"
+      },
+      "right_valley": {
+        "x": 43,
+        "y": 69.12999725341797,
+        "index": "43"
+      },
+      "neckline": {
+        "x": 38,
+        "y": 70.75,
+        "index": "38"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 71.66999816894531,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 38,
+        "y": 70.75,
+        "index": "38"
+      },
+      "pattern_width": 23,
+      "pattern_height": 1.6200027465820312,
+      "price_target": 72.37000274658203,
+      "confidence": 0.7170185287088473,
+      "depth_symmetry": 0.9979789317679655,
+      "current_price": 67.01000213623047,
+      "left_valley_price": 69.2699966430664,
+      "right_valley_price": 69.12999725341797,
+      "neckline_price": 70.75,
+      "target_price": 72.37000274658203,
+      "upside_potential": 7.998806804176413,
+      "risk_reward_ratio": 0.7998806804176413,
+      "symbol": "KO",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 20,
+        "y": 69.2699966430664,
+        "index": "20"
+      },
+      "right_valley": {
+        "x": 51,
+        "y": 68.36000061035156,
+        "index": "51"
+      },
+      "neckline": {
+        "x": 38,
+        "y": 70.75,
+        "index": "38"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 71.66999816894531,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 38,
+        "y": 70.75,
+        "index": "38"
+      },
+      "pattern_width": 31,
+      "pattern_height": 2.3899993896484375,
+      "price_target": 73.13999938964844,
+      "confidence": 0.7292815190906143,
+      "depth_symmetry": 0.9868630564917757,
+      "current_price": 67.01000213623047,
+      "left_valley_price": 69.2699966430664,
+      "right_valley_price": 68.36000061035156,
+      "neckline_price": 70.75,
+      "target_price": 73.13999938964844,
+      "upside_potential": 9.147883984477069,
+      "risk_reward_ratio": 0.9147883984477069,
+      "symbol": "KO",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 43,
+        "y": 69.12999725341797,
+        "index": "43"
+      },
+      "right_valley": {
+        "x": 51,
+        "y": 68.36000061035156,
+        "index": "51"
+      },
+      "neckline": {
+        "x": 45,
+        "y": 70.69999694824219,
+        "index": "45"
+      },
+      "left_peak": {
+        "x": 38,
+        "y": 70.75,
+        "index": "38"
+      },
+      "right_peak": {
+        "x": 45,
+        "y": 70.69999694824219,
+        "index": "45"
+      },
+      "pattern_width": 8,
+      "pattern_height": 2.339996337890625,
+      "price_target": 73.03999328613281,
+      "confidence": 0.7034888569823532,
+      "depth_symmetry": 0.988861613284263,
+      "current_price": 67.01000213623047,
+      "left_valley_price": 69.12999725341797,
+      "right_valley_price": 68.36000061035156,
+      "neckline_price": 70.69999694824219,
+      "target_price": 73.03999328613281,
+      "upside_potential": 8.99864342287805,
+      "risk_reward_ratio": 0.899864342287805,
+      "symbol": "KO",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 11,
+        "y": 981.0009155273438,
+        "index": "11"
+      },
+      "right_valley": {
+        "x": 30,
+        "y": 926.226806640625,
+        "index": "30"
+      },
+      "neckline": {
+        "x": 13,
+        "y": 990.8073120117188,
+        "index": "13"
+      },
+      "left_peak": {
+        "x": 4,
+        "y": 1003.0902709960938,
+        "index": "4"
+      },
+      "right_peak": {
+        "x": 13,
+        "y": 990.8073120117188,
+        "index": "13"
+      },
+      "pattern_width": 19,
+      "pattern_height": 64.58050537109375,
+      "price_target": 1055.3878173828125,
+      "confidence": 0.8015031824677674,
+      "depth_symmetry": 0.9441650787275009,
+      "current_price": 967.9000244140625,
+      "left_valley_price": 981.0009155273438,
+      "right_valley_price": 926.226806640625,
+      "neckline_price": 990.8073120117188,
+      "target_price": 1055.3878173828125,
+      "upside_potential": 9.038928687052412,
+      "risk_reward_ratio": 0.9038928687052412,
+      "symbol": "COST",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 11,
+        "y": 981.0009155273438,
+        "index": "11"
+      },
+      "right_valley": {
+        "x": 42,
+        "y": 972.0399780273438,
+        "index": "42"
+      },
+      "neckline": {
+        "x": 39,
+        "y": 991.25,
+        "index": "39"
+      },
+      "left_peak": {
+        "x": 4,
+        "y": 1003.0902709960938,
+        "index": "4"
+      },
+      "right_peak": {
+        "x": 39,
+        "y": 991.25,
+        "index": "39"
+      },
+      "pattern_width": 31,
+      "pattern_height": 19.21002197265625,
+      "price_target": 1010.4600219726562,
+      "confidence": 0.9449571870651534,
+      "depth_symmetry": 0.9908655156604181,
+      "current_price": 967.9000244140625,
+      "left_valley_price": 981.0009155273438,
+      "right_valley_price": 972.0399780273438,
+      "neckline_price": 991.25,
+      "target_price": 1010.4600219726562,
+      "upside_potential": 4.397148102600606,
+      "risk_reward_ratio": 0.4397148102600606,
+      "symbol": "COST",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 11,
+        "y": 981.0009155273438,
+        "index": "11"
+      },
+      "right_valley": {
+        "x": 53,
+        "y": 938.8200073242188,
+        "index": "53"
+      },
+      "neckline": {
+        "x": 45,
+        "y": 994.5700073242188,
+        "index": "45"
+      },
+      "left_peak": {
+        "x": 4,
+        "y": 1003.0902709960938,
+        "index": "4"
+      },
+      "right_peak": {
+        "x": 45,
+        "y": 994.5700073242188,
+        "index": "45"
+      },
+      "pattern_width": 42,
+      "pattern_height": 55.75,
+      "price_target": 1050.3200073242188,
+      "confidence": 0.8538374090894056,
+      "depth_symmetry": 0.957002172438901,
+      "current_price": 967.9000244140625,
+      "left_valley_price": 981.0009155273438,
+      "right_valley_price": 938.8200073242188,
+      "neckline_price": 994.5700073242188,
+      "target_price": 1050.3200073242188,
+      "upside_potential": 8.515340513608399,
+      "risk_reward_ratio": 0.8515340513608398,
+      "symbol": "COST",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 11,
+        "y": 981.0009155273438,
+        "index": "11"
+      },
+      "right_valley": {
+        "x": 59,
+        "y": 956.2899780273438,
+        "index": "59"
+      },
+      "neckline": {
+        "x": 45,
+        "y": 994.5700073242188,
+        "index": "45"
+      },
+      "left_peak": {
+        "x": 4,
+        "y": 1003.0902709960938,
+        "index": "4"
+      },
+      "right_peak": {
+        "x": 45,
+        "y": 994.5700073242188,
+        "index": "45"
+      },
+      "pattern_width": 48,
+      "pattern_height": 38.280029296875,
+      "price_target": 1032.8500366210938,
+      "confidence": 0.9127969959497526,
+      "depth_symmetry": 0.9748104847723649,
+      "current_price": 967.9000244140625,
+      "left_valley_price": 981.0009155273438,
+      "right_valley_price": 956.2899780273438,
+      "neckline_price": 994.5700073242188,
+      "target_price": 1032.8500366210938,
+      "upside_potential": 6.710405059277691,
+      "risk_reward_ratio": 0.6710405059277691,
+      "symbol": "COST",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 42,
+        "y": 100.0,
+        "index": "42"
+      },
+      "right_valley": {
+        "x": 49,
+        "y": 96.05000305175781,
+        "index": "49"
+      },
+      "neckline": {
+        "x": 45,
+        "y": 102.56999969482422,
+        "index": "45"
+      },
+      "left_peak": {
+        "x": 38,
+        "y": 103.68782806396484,
+        "index": "38"
+      },
+      "right_peak": {
+        "x": 45,
+        "y": 102.56999969482422,
+        "index": "45"
+      },
+      "pattern_width": 7,
+      "pattern_height": 6.519996643066406,
+      "price_target": 109.08999633789062,
+      "confidence": 0.6096958933236288,
+      "depth_symmetry": 0.9605000305175782,
+      "current_price": 103.48999786376953,
+      "left_valley_price": 100.0,
+      "right_valley_price": 96.05000305175781,
+      "neckline_price": 102.56999969482422,
+      "target_price": 109.08999633789062,
+      "upside_potential": 5.411149473104375,
+      "risk_reward_ratio": 0.5411149473104375,
+      "symbol": "WMT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 42,
+        "y": 100.0,
+        "index": "42"
+      },
+      "right_valley": {
+        "x": 59,
+        "y": 100.41000366210938,
+        "index": "59"
+      },
+      "neckline": {
+        "x": 45,
+        "y": 102.56999969482422,
+        "index": "45"
+      },
+      "left_peak": {
+        "x": 38,
+        "y": 103.68782806396484,
+        "index": "38"
+      },
+      "right_peak": {
+        "x": 45,
+        "y": 102.56999969482422,
+        "index": "45"
+      },
+      "pattern_width": 17,
+      "pattern_height": 2.5699996948242188,
+      "price_target": 105.13999938964844,
+      "confidence": 0.7190986725892212,
+      "depth_symmetry": 0.9959167050377861,
+      "current_price": 103.48999786376953,
+      "left_valley_price": 100.0,
+      "right_valley_price": 100.41000366210938,
+      "neckline_price": 102.56999969482422,
+      "target_price": 105.13999938964844,
+      "upside_potential": 1.5943584500319619,
+      "risk_reward_ratio": 0.15943584500319619,
+      "symbol": "WMT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 49,
+        "y": 96.05000305175781,
+        "index": "49"
+      },
+      "right_valley": {
+        "x": 59,
+        "y": 100.41000366210938,
+        "index": "59"
+      },
+      "neckline": {
+        "x": 58,
+        "y": 102.29000091552734,
+        "index": "58"
+      },
+      "left_peak": {
+        "x": 45,
+        "y": 102.56999969482422,
+        "index": "45"
+      },
+      "right_peak": {
+        "x": 58,
+        "y": 102.29000091552734,
+        "index": "58"
+      },
+      "pattern_width": 10,
+      "pattern_height": 6.239997863769531,
+      "price_target": 108.52999877929688,
+      "confidence": 0.6687390159607274,
+      "depth_symmetry": 0.9565780255817593,
+      "current_price": 103.48999786376953,
+      "left_valley_price": 96.05000305175781,
+      "right_valley_price": 100.41000366210938,
+      "neckline_price": 102.29000091552734,
+      "target_price": 108.52999877929688,
+      "upside_potential": 4.870036737426372,
+      "risk_reward_ratio": 0.4870036737426372,
+      "symbol": "WMT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 7,
+        "y": 133.07266235351562,
+        "index": "7"
+      },
+      "right_valley": {
+        "x": 21,
+        "y": 120.51000213623047,
+        "index": "21"
+      },
+      "neckline": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "left_peak": {
+        "x": 5,
+        "y": 137.4629669189453,
+        "index": "5"
+      },
+      "right_peak": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "pattern_width": 14,
+      "pattern_height": 15.141090393066406,
+      "price_target": 150.79218292236328,
+      "confidence": 0.647830037218952,
+      "depth_symmetry": 0.9055954844886797,
+      "current_price": 133.72999572753906,
+      "left_valley_price": 133.07266235351562,
+      "right_valley_price": 120.51000213623047,
+      "neckline_price": 135.65109252929688,
+      "target_price": 150.79218292236328,
+      "upside_potential": 12.758683720880876,
+      "risk_reward_ratio": 1.2758683720880877,
+      "symbol": "ABT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 7,
+        "y": 133.07266235351562,
+        "index": "7"
+      },
+      "right_valley": {
+        "x": 31,
+        "y": 126.19000244140625,
+        "index": "31"
+      },
+      "neckline": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "left_peak": {
+        "x": 5,
+        "y": 137.4629669189453,
+        "index": "5"
+      },
+      "right_peak": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "pattern_width": 24,
+      "pattern_height": 9.461090087890625,
+      "price_target": 145.1121826171875,
+      "confidence": 0.7840101907526282,
+      "depth_symmetry": 0.9482789343026355,
+      "current_price": 133.72999572753906,
+      "left_valley_price": 133.07266235351562,
+      "right_valley_price": 126.19000244140625,
+      "neckline_price": 135.65109252929688,
+      "target_price": 145.1121826171875,
+      "upside_potential": 8.511319265154587,
+      "risk_reward_ratio": 0.8511319265154587,
+      "symbol": "ABT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 7,
+        "y": 133.07266235351562,
+        "index": "7"
+      },
+      "right_valley": {
+        "x": 41,
+        "y": 129.27999877929688,
+        "index": "41"
+      },
+      "neckline": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "left_peak": {
+        "x": 5,
+        "y": 137.4629669189453,
+        "index": "5"
+      },
+      "right_peak": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "pattern_width": 34,
+      "pattern_height": 6.37109375,
+      "price_target": 142.02218627929688,
+      "confidence": 0.7905644198499446,
+      "depth_symmetry": 0.9714993034095665,
+      "current_price": 133.72999572753906,
+      "left_valley_price": 133.07266235351562,
+      "right_valley_price": 129.27999877929688,
+      "neckline_price": 135.65109252929688,
+      "target_price": 142.02218627929688,
+      "upside_potential": 6.2006960417857835,
+      "risk_reward_ratio": 0.6200696041785784,
+      "symbol": "ABT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 7,
+        "y": 133.07266235351562,
+        "index": "7"
+      },
+      "right_valley": {
+        "x": 59,
+        "y": 129.36000061035156,
+        "index": "59"
+      },
+      "neckline": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "left_peak": {
+        "x": 5,
+        "y": 137.4629669189453,
+        "index": "5"
+      },
+      "right_peak": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "pattern_width": 52,
+      "pattern_height": 6.2910919189453125,
+      "price_target": 141.9421844482422,
+      "confidence": 0.8443422364619089,
+      "depth_symmetry": 0.9721004924865698,
+      "current_price": 133.72999572753906,
+      "left_valley_price": 133.07266235351562,
+      "right_valley_price": 129.36000061035156,
+      "neckline_price": 135.65109252929688,
+      "target_price": 141.9421844482422,
+      "upside_potential": 6.140872641194579,
+      "risk_reward_ratio": 0.6140872641194579,
+      "symbol": "ABT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 21,
+        "y": 120.51000213623047,
+        "index": "21"
+      },
+      "right_valley": {
+        "x": 31,
+        "y": 126.19000244140625,
+        "index": "31"
+      },
+      "neckline": {
+        "x": 30,
+        "y": 128.5500030517578,
+        "index": "30"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 30,
+        "y": 128.5500030517578,
+        "index": "30"
+      },
+      "pattern_width": 10,
+      "pattern_height": 8.040000915527344,
+      "price_target": 136.59000396728516,
+      "confidence": 0.6407755794475605,
+      "depth_symmetry": 0.9549885078430586,
+      "current_price": 133.72999572753906,
+      "left_valley_price": 120.51000213623047,
+      "right_valley_price": 126.19000244140625,
+      "neckline_price": 128.5500030517578,
+      "target_price": 136.59000396728516,
+      "upside_potential": 2.1386437830844343,
+      "risk_reward_ratio": 0.21386437830844343,
+      "symbol": "ABT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 21,
+        "y": 120.51000213623047,
+        "index": "21"
+      },
+      "right_valley": {
+        "x": 41,
+        "y": 129.27999877929688,
+        "index": "41"
+      },
+      "neckline": {
+        "x": 37,
+        "y": 134.27999877929688,
+        "index": "37"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 37,
+        "y": 134.27999877929688,
+        "index": "37"
+      },
+      "pattern_width": 20,
+      "pattern_height": 13.769996643066406,
+      "price_target": 148.04999542236328,
+      "confidence": 0.7445827363614467,
+      "depth_symmetry": 0.9321627728505916,
+      "current_price": 133.72999572753906,
+      "left_valley_price": 120.51000213623047,
+      "right_valley_price": 129.27999877929688,
+      "neckline_price": 134.27999877929688,
+      "target_price": 148.04999542236328,
+      "upside_potential": 10.70814338766579,
+      "risk_reward_ratio": 1.0708143387665792,
+      "symbol": "ABT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 21,
+        "y": 120.51000213623047,
+        "index": "21"
+      },
+      "right_valley": {
+        "x": 59,
+        "y": 129.36000061035156,
+        "index": "59"
+      },
+      "neckline": {
+        "x": 37,
+        "y": 134.27999877929688,
+        "index": "37"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 135.65109252929688,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 37,
+        "y": 134.27999877929688,
+        "index": "37"
+      },
+      "pattern_width": 38,
+      "pattern_height": 13.769996643066406,
+      "price_target": 148.04999542236328,
+      "confidence": 0.9189834023515715,
+      "depth_symmetry": 0.9315862829903783,
+      "current_price": 133.72999572753906,
+      "left_valley_price": 120.51000213623047,
+      "right_valley_price": 129.36000061035156,
+      "neckline_price": 134.27999877929688,
+      "target_price": 148.04999542236328,
+      "upside_potential": 10.70814338766579,
+      "risk_reward_ratio": 1.0708143387665792,
+      "symbol": "ABT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 41,
+        "y": 129.27999877929688,
+        "index": "41"
+      },
+      "right_valley": {
+        "x": 59,
+        "y": 129.36000061035156,
+        "index": "59"
+      },
+      "neckline": {
+        "x": 56,
+        "y": 132.94000244140625,
+        "index": "56"
+      },
+      "left_peak": {
+        "x": 37,
+        "y": 134.27999877929688,
+        "index": "37"
+      },
+      "right_peak": {
+        "x": 56,
+        "y": 132.94000244140625,
+        "index": "56"
+      },
+      "pattern_width": 18,
+      "pattern_height": 3.660003662109375,
+      "price_target": 136.60000610351562,
+      "confidence": 0.7315682295797998,
+      "depth_symmetry": 0.9993815566583394,
+      "current_price": 133.72999572753906,
+      "left_valley_price": 129.27999877929688,
+      "right_valley_price": 129.36000061035156,
+      "neckline_price": 132.94000244140625,
+      "target_price": 136.60000610351562,
+      "upside_potential": 2.146123134426707,
+      "risk_reward_ratio": 0.21461231344267068,
+      "symbol": "ABT",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 28,
+        "y": 42.36000061035156,
+        "index": "28"
+      },
+      "right_valley": {
+        "x": 35,
+        "y": 42.349998474121094,
+        "index": "35"
+      },
+      "neckline": {
+        "x": 33,
+        "y": 42.95000076293945,
+        "index": "33"
+      },
+      "left_peak": {
+        "x": 26,
+        "y": 43.08000183105469,
+        "index": "26"
+      },
+      "right_peak": {
+        "x": 33,
+        "y": 42.95000076293945,
+        "index": "33"
+      },
+      "pattern_width": 7,
+      "pattern_height": 0.6000022888183594,
+      "price_target": 43.55000305175781,
+      "confidence": 0.7019142047205731,
+      "depth_symmetry": 0.9997638778072155,
+      "current_price": 43.970001220703125,
+      "left_valley_price": 42.36000061035156,
+      "right_valley_price": 42.349998474121094,
+      "neckline_price": 42.95000076293945,
+      "target_price": 43.55000305175781,
+      "upside_potential": -0.9551925341943311,
+      "risk_reward_ratio": -0.09551925341943311,
+      "symbol": "VZ",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 19,
+        "y": 276.07000732421875,
+        "index": "19"
+      },
+      "right_valley": {
+        "x": 39,
+        "y": 237.8699951171875,
+        "index": "39"
+      },
+      "neckline": {
+        "x": 24,
+        "y": 286.9599914550781,
+        "index": "24"
+      },
+      "left_peak": {
+        "x": 12,
+        "y": 303.2632751464844,
+        "index": "12"
+      },
+      "right_peak": {
+        "x": 24,
+        "y": 286.9599914550781,
+        "index": "24"
+      },
+      "pattern_width": 20,
+      "pattern_height": 49.089996337890625,
+      "price_target": 336.04998779296875,
+      "confidence": 0.771556126437839,
+      "depth_symmetry": 0.8616292563713056,
+      "current_price": 238.5399932861328,
+      "left_valley_price": 276.07000732421875,
+      "right_valley_price": 237.8699951171875,
+      "neckline_price": 286.9599914550781,
+      "target_price": 336.04998779296875,
+      "upside_potential": 40.87783904222342,
+      "risk_reward_ratio": 4.087783904222342,
+      "symbol": "ACN",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 19,
+        "y": 67.18000030517578,
+        "index": "19"
+      },
+      "right_valley": {
+        "x": 32,
+        "y": 67.11000061035156,
+        "index": "32"
+      },
+      "neckline": {
+        "x": 27,
+        "y": 68.69000244140625,
+        "index": "27"
+      },
+      "left_peak": {
+        "x": 12,
+        "y": 69.37000274658203,
+        "index": "12"
+      },
+      "right_peak": {
+        "x": 27,
+        "y": 68.69000244140625,
+        "index": "27"
+      },
+      "pattern_width": 13,
+      "pattern_height": 1.5800018310546875,
+      "price_target": 70.27000427246094,
+      "confidence": 0.7094177350796382,
+      "depth_symmetry": 0.9989580277685883,
+      "current_price": 66.52999877929688,
+      "left_valley_price": 67.18000030517578,
+      "right_valley_price": 67.11000061035156,
+      "neckline_price": 68.69000244140625,
+      "target_price": 70.27000427246094,
+      "upside_potential": 5.621532484272185,
+      "risk_reward_ratio": 0.5621532484272185,
+      "symbol": "CSCO",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 42,
+        "y": 66.19999694824219,
+        "index": "42"
+      },
+      "right_valley": {
+        "x": 57,
+        "y": 66.87999725341797,
+        "index": "57"
+      },
+      "neckline": {
+        "x": 51,
+        "y": 69.43000030517578,
+        "index": "51"
+      },
+      "left_peak": {
+        "x": 37,
+        "y": 71.79000091552734,
+        "index": "37"
+      },
+      "right_peak": {
+        "x": 51,
+        "y": 69.43000030517578,
+        "index": "51"
+      },
+      "pattern_width": 15,
+      "pattern_height": 3.2300033569335938,
+      "price_target": 72.66000366210938,
+      "confidence": 0.7183598382042282,
+      "depth_symmetry": 0.9898325309045818,
+      "current_price": 66.52999877929688,
+      "left_valley_price": 66.19999694824219,
+      "right_valley_price": 66.87999725341797,
+      "neckline_price": 69.43000030517578,
+      "target_price": 72.66000366210938,
+      "upside_potential": 9.213895979688585,
+      "risk_reward_ratio": 0.9213895979688586,
+      "symbol": "CSCO",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 20,
+        "y": 361.7699890136719,
+        "index": "20"
+      },
+      "right_valley": {
+        "x": 38,
+        "y": 333.6499938964844,
+        "index": "38"
+      },
+      "neckline": {
+        "x": 24,
+        "y": 372.8699951171875,
+        "index": "24"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 392.1000061035156,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 24,
+        "y": 372.8699951171875,
+        "index": "24"
+      },
+      "pattern_width": 18,
+      "pattern_height": 39.220001220703125,
+      "price_target": 412.0899963378906,
+      "confidence": 0.8070304837930915,
+      "depth_symmetry": 0.9222710673324404,
+      "current_price": 349.3599853515625,
+      "left_valley_price": 361.7699890136719,
+      "right_valley_price": 333.6499938964844,
+      "neckline_price": 372.8699951171875,
+      "target_price": 412.0899963378906,
+      "upside_potential": 17.955694302884357,
+      "risk_reward_ratio": 1.7955694302884357,
+      "symbol": "ADBE",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 20,
+        "y": 361.7699890136719,
+        "index": "20"
+      },
+      "right_valley": {
+        "x": 55,
+        "y": 344.30999755859375,
+        "index": "55"
+      },
+      "neckline": {
+        "x": 24,
+        "y": 372.8699951171875,
+        "index": "24"
+      },
+      "left_peak": {
+        "x": 10,
+        "y": 392.1000061035156,
+        "index": "10"
+      },
+      "right_peak": {
+        "x": 24,
+        "y": 372.8699951171875,
+        "index": "24"
+      },
+      "pattern_width": 35,
+      "pattern_height": 28.55999755859375,
+      "price_target": 401.42999267578125,
+      "confidence": 0.8984176869855023,
+      "depth_symmetry": 0.9517373138034999,
+      "current_price": 349.3599853515625,
+      "left_valley_price": 361.7699890136719,
+      "right_valley_price": 344.30999755859375,
+      "neckline_price": 372.8699951171875,
+      "target_price": 401.42999267578125,
+      "upside_potential": 14.904399332344964,
+      "risk_reward_ratio": 1.4904399332344964,
+      "symbol": "ADBE",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 38,
+        "y": 333.6499938964844,
+        "index": "38"
+      },
+      "right_valley": {
+        "x": 55,
+        "y": 344.30999755859375,
+        "index": "55"
+      },
+      "neckline": {
+        "x": 48,
+        "y": 363.2099914550781,
+        "index": "48"
+      },
+      "left_peak": {
+        "x": 24,
+        "y": 372.8699951171875,
+        "index": "24"
+      },
+      "right_peak": {
+        "x": 48,
+        "y": 363.2099914550781,
+        "index": "48"
+      },
+      "pattern_width": 17,
+      "pattern_height": 29.55999755859375,
+      "price_target": 392.7699890136719,
+      "confidence": 0.7851847309649981,
+      "depth_symmetry": 0.9690395174764123,
+      "current_price": 349.3599853515625,
+      "left_valley_price": 333.6499938964844,
+      "right_valley_price": 344.30999755859375,
+      "neckline_price": 363.2099914550781,
+      "target_price": 392.7699890136719,
+      "upside_potential": 12.425579769367603,
+      "risk_reward_ratio": 1.2425579769367603,
+      "symbol": "ADBE",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 31,
+        "y": 43.310001373291016,
+        "index": "31"
+      },
+      "right_valley": {
+        "x": 55,
+        "y": 46.689998626708984,
+        "index": "55"
+      },
+      "neckline": {
+        "x": 42,
+        "y": 48.439998626708984,
+        "index": "42"
+      },
+      "left_peak": {
+        "x": 25,
+        "y": 48.97999954223633,
+        "index": "25"
+      },
+      "right_peak": {
+        "x": 42,
+        "y": 48.439998626708984,
+        "index": "42"
+      },
+      "pattern_width": 24,
+      "pattern_height": 5.129997253417969,
+      "price_target": 53.56999588012695,
+      "confidence": 0.7233780023804424,
+      "depth_symmetry": 0.9276076814556931,
+      "current_price": 46.20000076293945,
+      "left_valley_price": 43.310001373291016,
+      "right_valley_price": 46.689998626708984,
+      "neckline_price": 48.439998626708984,
+      "target_price": 53.56999588012695,
+      "upside_potential": 15.952370120087824,
+      "risk_reward_ratio": 1.5952370120087824,
+      "symbol": "BMY",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 20,
+        "y": 458.2085266113281,
+        "index": "20"
+      },
+      "right_valley": {
+        "x": 32,
+        "y": 457.9493408203125,
+        "index": "32"
+      },
+      "neckline": {
+        "x": 27,
+        "y": 471.3865051269531,
+        "index": "27"
+      },
+      "left_peak": {
+        "x": 11,
+        "y": 475.65289306640625,
+        "index": "11"
+      },
+      "right_peak": {
+        "x": 27,
+        "y": 471.3865051269531,
+        "index": "27"
+      },
+      "pattern_width": 12,
+      "pattern_height": 13.437164306640625,
+      "price_target": 484.82366943359375,
+      "confidence": 0.6670439757833908,
+      "depth_symmetry": 0.9994343496989625,
+      "current_price": 482.0400085449219,
+      "left_valley_price": 458.2085266113281,
+      "right_valley_price": 457.9493408203125,
+      "neckline_price": 471.3865051269531,
+      "target_price": 484.82366943359375,
+      "upside_potential": 0.5774750724684842,
+      "risk_reward_ratio": 0.05774750724684842,
+      "symbol": "LIN",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 17,
+        "y": 1245.1099853515625,
+        "index": "17"
+      },
+      "right_valley": {
+        "x": 34,
+        "y": 1147.8699951171875,
+        "index": "34"
+      },
+      "neckline": {
+        "x": 21,
+        "y": 1274.1700439453125,
+        "index": "21"
+      },
+      "left_peak": {
+        "x": 9,
+        "y": 1339.1300048828125,
+        "index": "9"
+      },
+      "right_peak": {
+        "x": 21,
+        "y": 1274.1700439453125,
+        "index": "21"
+      },
+      "pattern_width": 17,
+      "pattern_height": 126.300048828125,
+      "price_target": 1400.4700927734375,
+      "confidence": 0.7744112553495986,
+      "depth_symmetry": 0.9219024894359683,
+      "current_price": 1188.43994140625,
+      "left_valley_price": 1245.1099853515625,
+      "right_valley_price": 1147.8699951171875,
+      "neckline_price": 1274.1700439453125,
+      "target_price": 1400.4700927734375,
+      "upside_potential": 17.84104892303584,
+      "risk_reward_ratio": 1.7841048923035838,
+      "symbol": "NFLX",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 17,
+        "y": 1245.1099853515625,
+        "index": "17"
+      },
+      "right_valley": {
+        "x": 47,
+        "y": 1204.6500244140625,
+        "index": "47"
+      },
+      "neckline": {
+        "x": 21,
+        "y": 1274.1700439453125,
+        "index": "21"
+      },
+      "left_peak": {
+        "x": 9,
+        "y": 1339.1300048828125,
+        "index": "9"
+      },
+      "right_peak": {
+        "x": 21,
+        "y": 1274.1700439453125,
+        "index": "21"
+      },
+      "pattern_width": 30,
+      "pattern_height": 69.52001953125,
+      "price_target": 1343.6900634765625,
+      "confidence": 0.8269054923972726,
+      "depth_symmetry": 0.967504910077421,
+      "current_price": 1188.43994140625,
+      "left_valley_price": 1245.1099853515625,
+      "right_valley_price": 1204.6500244140625,
+      "neckline_price": 1274.1700439453125,
+      "target_price": 1343.6900634765625,
+      "upside_potential": 13.063354458333762,
+      "risk_reward_ratio": 1.3063354458333762,
+      "symbol": "NFLX",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 34,
+        "y": 1147.8699951171875,
+        "index": "34"
+      },
+      "right_valley": {
+        "x": 47,
+        "y": 1204.6500244140625,
+        "index": "47"
+      },
+      "neckline": {
+        "x": 43,
+        "y": 1245.0899658203125,
+        "index": "43"
+      },
+      "left_peak": {
+        "x": 21,
+        "y": 1274.1700439453125,
+        "index": "21"
+      },
+      "right_peak": {
+        "x": 43,
+        "y": 1245.0899658203125,
+        "index": "43"
+      },
+      "pattern_width": 13,
+      "pattern_height": 97.219970703125,
+      "price_target": 1342.3099365234375,
+      "confidence": 0.789804715393231,
+      "depth_symmetry": 0.9528659543052824,
+      "current_price": 1188.43994140625,
+      "left_valley_price": 1147.8699951171875,
+      "right_valley_price": 1204.6500244140625,
+      "neckline_price": 1245.0899658203125,
+      "target_price": 1342.3099365234375,
+      "upside_potential": 12.94722516100537,
+      "risk_reward_ratio": 1.2947225161005371,
+      "symbol": "NFLX",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 19,
+        "y": 257.5799865722656,
+        "index": "19"
+      },
+      "right_valley": {
+        "x": 39,
+        "y": 231.66000366210938,
+        "index": "39"
+      },
+      "neckline": {
+        "x": 28,
+        "y": 270.25,
+        "index": "28"
+      },
+      "left_peak": {
+        "x": 14,
+        "y": 273.6499938964844,
+        "index": "14"
+      },
+      "right_peak": {
+        "x": 28,
+        "y": 270.25,
+        "index": "28"
+      },
+      "pattern_width": 20,
+      "pattern_height": 38.589996337890625,
+      "price_target": 308.8399963378906,
+      "confidence": 0.801512468220551,
+      "depth_symmetry": 0.8993711302842846,
+      "current_price": 242.75999450683594,
+      "left_valley_price": 257.5799865722656,
+      "right_valley_price": 231.66000366210938,
+      "neckline_price": 270.25,
+      "target_price": 308.8399963378906,
+      "upside_potential": 27.220301254865092,
+      "risk_reward_ratio": 2.7220301254865094,
+      "symbol": "CRM",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 21,
+        "y": 151.74642944335938,
+        "index": "21"
+      },
+      "right_valley": {
+        "x": 35,
+        "y": 145.01473999023438,
+        "index": "35"
+      },
+      "neckline": {
+        "x": 29,
+        "y": 161.162841796875,
+        "index": "29"
+      },
+      "left_peak": {
+        "x": 11,
+        "y": 161.4014892578125,
+        "index": "11"
+      },
+      "right_peak": {
+        "x": 29,
+        "y": 161.162841796875,
+        "index": "29"
+      },
+      "pattern_width": 14,
+      "pattern_height": 16.148101806640625,
+      "price_target": 177.31094360351562,
+      "confidence": 0.6739071457994306,
+      "depth_symmetry": 0.9556385644273913,
+      "current_price": 161.8300018310547,
+      "left_valley_price": 151.74642944335938,
+      "right_valley_price": 145.01473999023438,
+      "neckline_price": 161.162841796875,
+      "target_price": 177.31094360351562,
+      "upside_potential": 9.566175367545595,
+      "risk_reward_ratio": 0.9566175367545595,
+      "symbol": "QCOM",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 21,
+        "y": 151.74642944335938,
+        "index": "21"
+      },
+      "right_valley": {
+        "x": 46,
+        "y": 153.25782775878906,
+        "index": "46"
+      },
+      "neckline": {
+        "x": 29,
+        "y": 161.162841796875,
+        "index": "29"
+      },
+      "left_peak": {
+        "x": 11,
+        "y": 161.4014892578125,
+        "index": "11"
+      },
+      "right_peak": {
+        "x": 29,
+        "y": 161.162841796875,
+        "index": "29"
+      },
+      "pattern_width": 25,
+      "pattern_height": 9.416412353515625,
+      "price_target": 170.57925415039062,
+      "confidence": 0.8089773130741302,
+      "depth_symmetry": 0.9901381982406245,
+      "current_price": 161.8300018310547,
+      "left_valley_price": 151.74642944335938,
+      "right_valley_price": 153.25782775878906,
+      "neckline_price": 161.162841796875,
+      "target_price": 170.57925415039062,
+      "upside_potential": 5.406446406933787,
+      "risk_reward_ratio": 0.5406446406933787,
+      "symbol": "QCOM",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 21,
+        "y": 151.74642944335938,
+        "index": "21"
+      },
+      "right_valley": {
+        "x": 54,
+        "y": 156.38999938964844,
+        "index": "54"
+      },
+      "neckline": {
+        "x": 29,
+        "y": 161.162841796875,
+        "index": "29"
+      },
+      "left_peak": {
+        "x": 11,
+        "y": 161.4014892578125,
+        "index": "11"
+      },
+      "right_peak": {
+        "x": 29,
+        "y": 161.162841796875,
+        "index": "29"
+      },
+      "pattern_width": 33,
+      "pattern_height": 9.416412353515625,
+      "price_target": 170.57925415039062,
+      "confidence": 0.83551272065802,
+      "depth_symmetry": 0.9703077564779604,
+      "current_price": 161.8300018310547,
+      "left_valley_price": 151.74642944335938,
+      "right_valley_price": 156.38999938964844,
+      "neckline_price": 161.162841796875,
+      "target_price": 170.57925415039062,
+      "upside_potential": 5.406446406933787,
+      "risk_reward_ratio": 0.5406446406933787,
+      "symbol": "QCOM",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 35,
+        "y": 145.01473999023438,
+        "index": "35"
+      },
+      "right_valley": {
+        "x": 46,
+        "y": 153.25782775878906,
+        "index": "46"
+      },
+      "neckline": {
+        "x": 43,
+        "y": 158.00082397460938,
+        "index": "43"
+      },
+      "left_peak": {
+        "x": 29,
+        "y": 161.162841796875,
+        "index": "29"
+      },
+      "right_peak": {
+        "x": 43,
+        "y": 158.00082397460938,
+        "index": "43"
+      },
+      "pattern_width": 11,
+      "pattern_height": 12.986083984375,
+      "price_target": 170.98690795898438,
+      "confidence": 0.626932661743116,
+      "depth_symmetry": 0.9462142463513942,
+      "current_price": 161.8300018310547,
+      "left_valley_price": 145.01473999023438,
+      "right_valley_price": 153.25782775878906,
+      "neckline_price": 158.00082397460938,
+      "target_price": 170.98690795898438,
+      "upside_potential": 5.658348899661512,
+      "risk_reward_ratio": 0.5658348899661512,
+      "symbol": "QCOM",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 35,
+        "y": 145.01473999023438,
+        "index": "35"
+      },
+      "right_valley": {
+        "x": 54,
+        "y": 156.38999938964844,
+        "index": "54"
+      },
+      "neckline": {
+        "x": 51,
+        "y": 159.8900909423828,
+        "index": "51"
+      },
+      "left_peak": {
+        "x": 29,
+        "y": 161.162841796875,
+        "index": "29"
+      },
+      "right_peak": {
+        "x": 51,
+        "y": 159.8900909423828,
+        "index": "51"
+      },
+      "pattern_width": 19,
+      "pattern_height": 14.875350952148438,
+      "price_target": 174.76544189453125,
+      "confidence": 0.7281170933748441,
+      "depth_symmetry": 0.9272635114533608,
+      "current_price": 161.8300018310547,
+      "left_valley_price": 145.01473999023438,
+      "right_valley_price": 156.38999938964844,
+      "neckline_price": 159.8900909423828,
+      "target_price": 174.76544189453125,
+      "upside_potential": 7.993227409699188,
+      "risk_reward_ratio": 0.7993227409699188,
+      "symbol": "QCOM",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 36,
+        "y": 76.60000610351562,
+        "index": "36"
+      },
+      "right_valley": {
+        "x": 56,
+        "y": 78.95999908447266,
+        "index": "56"
+      },
+      "neckline": {
+        "x": 50,
+        "y": 82.5,
+        "index": "50"
+      },
+      "left_peak": {
+        "x": 27,
+        "y": 83.8275375366211,
+        "index": "27"
+      },
+      "right_peak": {
+        "x": 50,
+        "y": 82.5,
+        "index": "50"
+      },
+      "pattern_width": 20,
+      "pattern_height": 5.899993896484375,
+      "price_target": 88.39999389648438,
+      "confidence": 0.7421524838182463,
+      "depth_symmetry": 0.9701115373819562,
+      "current_price": 81.45999908447266,
+      "left_valley_price": 76.60000610351562,
+      "right_valley_price": 78.95999908447266,
+      "neckline_price": 82.5,
+      "target_price": 88.39999389648438,
+      "upside_potential": 8.519512509219476,
+      "risk_reward_ratio": 0.8519512509219476,
+      "symbol": "WFC",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 32,
+        "y": 69.85977935791016,
+        "index": "32"
+      },
+      "right_valley": {
+        "x": 57,
+        "y": 69.7699966430664,
+        "index": "57"
+      },
+      "neckline": {
+        "x": 44,
+        "y": 75.92289733886719,
+        "index": "44"
+      },
+      "left_peak": {
+        "x": 24,
+        "y": 76.94499206542969,
+        "index": "24"
+      },
+      "right_peak": {
+        "x": 44,
+        "y": 75.92289733886719,
+        "index": "44"
+      },
+      "pattern_width": 25,
+      "pattern_height": 6.152900695800781,
+      "price_target": 82.07579803466797,
+      "confidence": 0.7737876580362997,
+      "depth_symmetry": 0.9987148153677415,
+      "current_price": 71.63999938964844,
+      "left_valley_price": 69.85977935791016,
+      "right_valley_price": 69.7699966430664,
+      "neckline_price": 75.92289733886719,
+      "target_price": 82.07579803466797,
+      "upside_potential": 14.566999907774209,
+      "risk_reward_ratio": 1.456699990777421,
+      "symbol": "NEE",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 28,
+        "y": 157.77000427246094,
+        "index": "28"
+      },
+      "right_valley": {
+        "x": 41,
+        "y": 165.27000427246094,
+        "index": "41"
+      },
+      "neckline": {
+        "x": 38,
+        "y": 170.32000732421875,
+        "index": "38"
+      },
+      "left_peak": {
+        "x": 20,
+        "y": 183.27000427246094,
+        "index": "20"
+      },
+      "right_peak": {
+        "x": 38,
+        "y": 170.32000732421875,
+        "index": "38"
+      },
+      "pattern_width": 13,
+      "pattern_height": 12.550003051757812,
+      "price_target": 182.87001037597656,
+      "confidence": 0.6598390569503154,
+      "depth_symmetry": 0.9546197143697314,
+      "current_price": 166.11000061035156,
+      "left_valley_price": 157.77000427246094,
+      "right_valley_price": 165.27000427246094,
+      "neckline_price": 170.32000732421875,
+      "target_price": 182.87001037597656,
+      "upside_potential": 10.089705438590286,
+      "risk_reward_ratio": 1.0089705438590286,
+      "symbol": "PM",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 28,
+        "y": 157.77000427246094,
+        "index": "28"
+      },
+      "right_valley": {
+        "x": 55,
+        "y": 161.14999389648438,
+        "index": "55"
+      },
+      "neckline": {
+        "x": 46,
+        "y": 174.49000549316406,
+        "index": "46"
+      },
+      "left_peak": {
+        "x": 20,
+        "y": 183.27000427246094,
+        "index": "20"
+      },
+      "right_peak": {
+        "x": 46,
+        "y": 174.49000549316406,
+        "index": "46"
+      },
+      "pattern_width": 27,
+      "pattern_height": 16.720001220703125,
+      "price_target": 191.2100067138672,
+      "confidence": 0.8694348754228085,
+      "depth_symmetry": 0.9790258159972715,
+      "current_price": 166.11000061035156,
+      "left_valley_price": 157.77000427246094,
+      "right_valley_price": 161.14999389648438,
+      "neckline_price": 174.49000549316406,
+      "target_price": 191.2100067138672,
+      "upside_potential": 15.110472585207765,
+      "risk_reward_ratio": 1.5110472585207764,
+      "symbol": "PM",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 35,
+        "y": 282.3792724609375,
+        "index": "35"
+      },
+      "right_valley": {
+        "x": 59,
+        "y": 278.510009765625,
+        "index": "59"
+      },
+      "neckline": {
+        "x": 42,
+        "y": 294.08428955078125,
+        "index": "42"
+      },
+      "left_peak": {
+        "x": 33,
+        "y": 299.5102844238281,
+        "index": "33"
+      },
+      "right_peak": {
+        "x": 42,
+        "y": 294.08428955078125,
+        "index": "42"
+      },
+      "pattern_width": 24,
+      "pattern_height": 15.57427978515625,
+      "price_target": 309.6585693359375,
+      "confidence": 0.828111647291651,
+      "depth_symmetry": 0.9862976391234674,
+      "current_price": 276.3900146484375,
+      "left_valley_price": 282.3792724609375,
+      "right_valley_price": 278.510009765625,
+      "neckline_price": 294.08428955078125,
+      "target_price": 309.6585693359375,
+      "upside_potential": 12.036814980388105,
+      "risk_reward_ratio": 1.2036814980388104,
+      "symbol": "AMGN",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 22,
+        "y": 26.940000534057617,
+        "index": "22"
+      },
+      "right_valley": {
+        "x": 31,
+        "y": 27.40999984741211,
+        "index": "31"
+      },
+      "neckline": {
+        "x": 27,
+        "y": 28.0,
+        "index": "27"
+      },
+      "left_peak": {
+        "x": 9,
+        "y": 28.653690338134766,
+        "index": "9"
+      },
+      "right_peak": {
+        "x": 27,
+        "y": 28.0,
+        "index": "27"
+      },
+      "pattern_width": 9,
+      "pattern_height": 1.0599994659423828,
+      "price_target": 29.059999465942383,
+      "confidence": 0.696042625867944,
+      "depth_symmetry": 0.9828529983228415,
+      "current_price": 29.56999969482422,
+      "left_valley_price": 26.940000534057617,
+      "right_valley_price": 27.40999984741211,
+      "neckline_price": 28.0,
+      "target_price": 29.059999465942383,
+      "upside_potential": -1.7247217928483907,
+      "risk_reward_ratio": -0.17247217928483907,
+      "symbol": "T",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 36,
+        "y": 91.84233856201172,
+        "index": "36"
+      },
+      "right_valley": {
+        "x": 44,
+        "y": 93.76000213623047,
+        "index": "44"
+      },
+      "neckline": {
+        "x": 40,
+        "y": 95.09549713134766,
+        "index": "40"
+      },
+      "left_peak": {
+        "x": 29,
+        "y": 97.188232421875,
+        "index": "29"
+      },
+      "right_peak": {
+        "x": 40,
+        "y": 95.09549713134766,
+        "index": "40"
+      },
+      "pattern_width": 8,
+      "pattern_height": 3.2531585693359375,
+      "price_target": 98.3486557006836,
+      "confidence": 0.7023664238729459,
+      "depth_symmetry": 0.9795471039832908,
+      "current_price": 92.43000030517578,
+      "left_valley_price": 91.84233856201172,
+      "right_valley_price": 93.76000213623047,
+      "neckline_price": 95.09549713134766,
+      "target_price": 98.3486557006836,
+      "upside_potential": 6.4033921626811745,
+      "risk_reward_ratio": 0.6403392162681174,
+      "symbol": "COP",
+      "scan_date": "2025-09-14"
+    },
+    {
+      "left_valley": {
+        "x": 42,
+        "y": 407.7900085449219,
+        "index": "42"
+      },
+      "right_valley": {
+        "x": 54,
+        "y": 415.1199951171875,
+        "index": "54"
+      },
+      "neckline": {
+        "x": 47,
+        "y": 435.6700134277344,
+        "index": "47"
+      },
+      "left_peak": {
+        "x": 31,
+        "y": 438.0199890136719,
+        "index": "31"
+      },
+      "right_peak": {
+        "x": 47,
+        "y": 435.6700134277344,
+        "index": "47"
+      },
+      "pattern_width": 12,
+      "pattern_height": 27.8800048828125,
+      "price_target": 463.5500183105469,
+      "confidence": 0.6960967423343565,
+      "depth_symmetry": 0.9823424873326172,
+      "current_price": 431.5199890136719,
+      "left_valley_price": 407.7900085449219,
+      "right_valley_price": 415.1199951171875,
+      "neckline_price": 435.6700134277344,
+      "target_price": 463.5500183105469,
+      "upside_potential": 7.422606162483053,
+      "risk_reward_ratio": 0.7422606162483053,
+      "symbol": "CAT",
+      "scan_date": "2025-09-14"
+    }
+  ]
+}

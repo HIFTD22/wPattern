@@ -1,0 +1,105 @@
+{
+  "target": "y_reachtarget",
+  "best": {
+    "name": "logit_l2_C10.0",
+    "auc": 0.615079365079365,
+    "view": "tabular"
+  },
+  "leaderboard": [
+    {
+      "name": "logit_l2_C10.0",
+      "auc": 0.615079365079365,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l1_C10.0",
+      "auc": 0.5714285714285714,
+      "view": "tabular"
+    },
+    {
+      "name": "rf_300_mdNone_msl1",
+      "auc": 0.5416666666666666,
+      "view": "tabular"
+    },
+    {
+      "name": "rf_300_md5_msl1",
+      "auc": 0.5416666666666666,
+      "view": "tabular"
+    },
+    {
+      "name": "gb_lr0.1_md3",
+      "auc": 0.511904761904762,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l1_C1.0",
+      "auc": 0.503968253968254,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l1_C0.1",
+      "auc": 0.5,
+      "view": "tabular"
+    },
+    {
+      "name": "lgbm_lr0.05",
+      "auc": 0.5,
+      "view": "tabular"
+    },
+    {
+      "name": "lgbm_lr0.1",
+      "auc": 0.5,
+      "view": "tabular"
+    },
+    {
+      "name": "lgbm_mono",
+      "auc": 0.5,
+      "view": "tabular"
+    },
+    {
+      "name": "gb_lr0.1_md2",
+      "auc": 0.49603174603174605,
+      "view": "tabular"
+    },
+    {
+      "name": "gb_lr0.05_md2",
+      "auc": 0.4920634920634921,
+      "view": "tabular"
+    },
+    {
+      "name": "rf_300_mdNone_msl3",
+      "auc": 0.46428571428571425,
+      "view": "tabular"
+    },
+    {
+      "name": "rf_300_md5_msl3",
+      "auc": 0.46428571428571425,
+      "view": "tabular"
+    },
+    {
+      "name": "gb_lr0.05_md3",
+      "auc": 0.4523809523809524,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l2_C1.0",
+      "auc": 0.44841269841269843,
+      "view": "tabular"
+    },
+    {
+      "name": "logit_l2_C0.1",
+      "auc": 0.376984126984127,
+      "view": "tabular"
+    },
+    {
+      "name": "xgb_lr0.05",
+      "auc": 0.36904761904761907,
+      "view": "tabular"
+    },
+    {
+      "name": "xgb_lr0.1",
+      "auc": 0.3531746031746032,
+      "view": "tabular"
+    }
+  ]
+}

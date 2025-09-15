@@ -1,0 +1,43 @@
+{
+  "model_type": "strict_ensemble",
+  "features": [
+    "drop1_norm",
+    "drop2_norm",
+    "neckline_slope_per_day",
+    "vol_ratio_l2",
+    "px_vs_ma20_l2",
+    "regime_volatility",
+    "pattern_amplitude_balance",
+    "overall_range"
+  ],
+  "target": "y_shape",
+  "n_samples": 51,
+  "class_distribution": {
+    "negative": 21,
+    "positive": 30
+  },
+  "cv_metrics": {
+    "auc": 0.9,
+    "precision": 1.0,
+    "recall": 0.26666666666666666
+  },
+  "feature_importance": {
+    "drop1_norm": 0.0,
+    "drop2_norm": 0.0,
+    "neckline_slope_per_day": 0.0,
+    "vol_ratio_l2": 0.0,
+    "px_vs_ma20_l2": 0.0,
+    "regime_volatility": 0.0,
+    "pattern_amplitude_balance": 0.0,
+    "overall_range": 0.0
+  },
+  "training_config": {
+    "strict_mode": true,
+    "min_quality_score": 0.02,
+    "min_overall_range": 0.03,
+    "max_trough_similarity": 0.15,
+    "calibration_method": "sigmoid"
+  },
+  "quality_filters_applied": true,
+  "timestamp": "2025-09-14T01:51:10.594146"
+}

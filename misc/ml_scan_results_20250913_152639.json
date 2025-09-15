@@ -1,0 +1,14 @@
+{
+  "scan_date": "2025-09-13T15:26:39.763573",
+  "total_candidates": 1,
+  "candidates": [
+    {
+      "symbol": "NVDA",
+      "ml_probability": 0.6119231178044581,
+      "ml_confidence": 0.738856229116631,
+      "current_price": 177.82000732421875,
+      "target_price": 210.69988112594586,
+      "upside_potential": 18.490536749206925
+    }
+  ]
+}
